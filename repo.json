@@ -2506,18 +2506,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.ubercab.UberEats.png"
     },
     {
-      "name": "uYouPlus",
-      "subtitle": "A good tweak.",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "19.42",
-      "versionDate": "2022-11-10",
-      "size": 115017943,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/uYouPlus_19.42.1-3.0.4.ipa",
-      "developerName": "qnblackcat",
-      "localizedDescription": "Youtube injected with uYouPlus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.google.ios.youtube.png"
-    },
-    {
       "name": "ModMyIPA",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.powen.ModMyIPA",
