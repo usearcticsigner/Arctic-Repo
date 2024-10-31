@@ -3,10 +3,10 @@
   "identifier": "arcticrepo.xyz",
   "subtitle": "My Repo, Arctic Signer's Repo.",
   "description": "Welcome to Arctic Signer's Repo, here you will find all of my recommended apps and games.",
-  "iconURL": "https://github.com/usearcticsigner/Repo/blob/main/icons/icon.png?raw=true",
+  "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/icon.png?raw=true",
   "website": "usearcticsigner.github.io",
   "tintColor": "#03fc98",
-  "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/refs/heads/main/repo.json",
+  "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/refs/heads/main/repo.json",
   "apps": [
     {
       "name": "Fortnite",
@@ -18,7 +18,7 @@
       "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.1/Fortnite-31.41.ipa", 
       "developerName": "Epic Games", 
       "localizedDescription": "Fortnite mobile! (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
-      "iconURL": "https://github.com/usearcticsigner/Repo/blob/main/icons/fortnite.png?raw=true"
+      "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/fortnite.png?raw=true"
     },
     {
       "name": "Fall Guys",
@@ -39,7 +39,7 @@
       "version": "1.21.31",
       "versionDate": "2024-10-01",
       "size": 514600000, 
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/Minecraft-v1-21-32.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/Minecraft-v1-21-32.ipa", 
       "developerName": "Mojang Studios", 
       "localizedDescription": "Minecraft, the perfect party game to play with friends.", 
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png"
@@ -51,7 +51,7 @@
       "version": "2.206",
       "versionDate": "2023-12-08",
       "size": 156700000, 
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/Geometry-Dash-v2-207.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/Geometry-Dash-v2-207.ipa", 
       "developerName": "RobTop", 
       "localizedDescription": "Geometry Dash the perfect platformer game.", 
       "iconURL": "data:image/jpeg;base64,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" 
@@ -66,7 +66,7 @@
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.7/EeveeSpotify-5.7-8.9.86.ipa", 
       "developerName": "whoeevee", 
       "localizedDescription": "Spotify injected with EeveeSpotify.", 
-      "iconURL": "https://github.com/usearcticsigner/Repo/blob/main/icons/com.spotify.client.png?raw=true"
+      "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/com.spotify.client.png?raw=true"
     },
     {
       "name": "Procreate Dreams", 
@@ -74,7 +74,7 @@
       "bundleIdentifier": "au.com.savageinteractive.Dream", 
       "version": "1.0.11",
       "versionDate": "2024-03-23",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/Procreate-Dreams-v1-0-11.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/Procreate-Dreams-v1-0-11.ipa", 
       "size": 737600000,
       "developerName": "Savage Interactive", 
       "localizedDescription": "Procreate Dreams, the perfect animation studio!", 
@@ -86,7 +86,7 @@
       "bundleIdentifier": "au.com.savageinteractive.procreate", 
       "version": "5.3.12",
       "versionDate": "2024-03-12",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/Procreate-v5-3-12.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/Procreate-v5-3-12.ipa", 
       "size": 361000000,
       "developerName": "Savage Interactive", 
       "localizedDescription": "Procreate, an amazing drawing studio.", 
@@ -146,7 +146,7 @@
       "bundleIdentifier": "DebianArch.ScarletPersonalXYZZZ", 
       "version": "1.0.0",
       "versionDate": "2020-08-14",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/ScarletAlpha.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/ScarletAlpha.ipa", 
       "size": 9780000,
       "developerName": "DebianArch64", 
       "localizedDescription": "Scarlet, a classic ipa signer that almost everyone has used.", 
@@ -158,11 +158,11 @@
       "bundleIdentifier": "com.google.ios.youtubemusic", 
       "version": "2.2",
       "versionDate": "2024-09-12",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/YTMusicUltimate.ipa", 
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/YTMusicUltimate.ipa", 
       "size": 80700000,
       "developerName": "dayanch96", 
       "localizedDescription": "Youtube Music injected with Ultimate.", 
-      "iconURL": "https://github.com/usearcticsigner/Repo/blob/main/icons/com.google.ios.youtubemusic.png?raw=true"
+      "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/com.google.ios.youtubemusic.png?raw=true"
     },
     {
       "name": "uYouEnhanced",
@@ -170,7 +170,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "19.21.2",
       "versionDate": "2024-10-02",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/uYouEnhanced_19.42.1-3.0.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/uYouEnhanced_19.42.1-3.0.4.ipa",
       "size": 127400000,
       "developerName": "arichornlover",
       "localizedDescription": "Youtube injected with uYouEnhanced.",
@@ -186,7 +186,7 @@
       "size": 51700000,
       "developerName": "Aniyomi",
       "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.kodjodevf.mangayomi.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
       "name": "BeRealBea",
@@ -198,7 +198,7 @@
       "size": 63800000,
       "developerName": "yandevelop",
       "localizedDescription": "Bereal injected with Bea.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/AlexisBarreyat.BeReal.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
       "name": "Enmity",
@@ -210,7 +210,7 @@
       "size": 98600000,
       "developerName": "zxcvbn",
       "localizedDescription": "An amazing Discord Client.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.hammerandchisel.discord.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hammerandchisel.discord.png"
     },
     {
       "name": "iPoGo",
@@ -218,11 +218,11 @@
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "version": "3.5.8",
       "versionDate": "2024-08-24",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/ipogo-3.5.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/ipogo-3.5.8.ipa",
       "size": 146000000,
       "developerName": "ipogo",
       "localizedDescription": "The BEST Pokemon Go sppofer, waring if you overuse it you can get banned.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.nianticlabs.pokemongo.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
       "name": "PhotomathPlus",
@@ -230,11 +230,11 @@
       "bundleIdentifier": "com.microblink.PhotoMath",
       "version": "8.35.0",
       "versionDate": "???",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/PhotoMathPlus_8.35.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/PhotoMathPlus_8.35.0.ipa",
       "size": 14700000,
       "developerName": "Cypwn",
       "localizedDescription": "Photomath cracked with plus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.microblink.PhotoMath.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.microblink.PhotoMath.png"
     },
     {
       "name": "Watusi3",
@@ -242,11 +242,11 @@
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "version": "1.2.42",
       "versionDate": "2024-09-25",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/net.whatsapp.WhatsApp_24.20.78_watusi3_1.2.42.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/net.whatsapp.WhatsApp_24.20.78_watusi3_1.2.42.ipa",
       "size": 108900000,
       "developerName": "FouadRaheb",
       "localizedDescription": "Whatsapp injected with Watusi.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/net.whatsapp.WhatsApp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
       "name": "BHX",
@@ -258,7 +258,7 @@
       "size": 121000000,
       "developerName": "BandarHL",
       "localizedDescription": "X but it has been rebranded to twitter.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.atebits.Tweetie2.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.atebits.Tweetie2.png"
     },
     {
       "name": "iTorrent",
@@ -270,7 +270,7 @@
       "size": 6680000,
       "developerName": "XITRIX",
       "localizedDescription": "The only Torrent player on iOS, it can even pirate games.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/ru.nonamedude.iTorrent.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
       "name": "nPlayerPlus",
@@ -278,11 +278,11 @@
       "bundleIdentifier": "com.newin.nplayer",
       "version": "2.14.2",
       "versionDate": "2024-05-03",
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/nPlayer-Plus-v3.12.13.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/nPlayer-Plus-v3.12.13.ipa",
       "size": 42500000,
       "developerName": "Pdalife",
       "localizedDescription": "nplayer hacked with plus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.newin.nplayer.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.newin.nplayer.png"
     },
     {
       "name": "Apollo",
@@ -294,7 +294,7 @@
       "size": 63800000,
       "developerName": "zxcvbn",
       "localizedDescription": "Apollo, the best Reddit Client.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.christianselig.Apollo.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.christianselig.Apollo.png"
     },
     {
       "name": "Misaka",
@@ -306,7 +306,7 @@
       "size": 63800000,
       "developerName": "Misaka",
       "localizedDescription": "Misaka, one of the best ios tweaker.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.straight-tamago.misakaRS.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
       "name": "Streamer",
@@ -318,7 +318,7 @@
       "size": 63800000,
       "developerName": "StreamerApp",
       "localizedDescription": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.streamer.ios.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.streamer.ios.png"
     },
     {
       "name": "Jitterbug",
@@ -330,7 +330,7 @@
       "size": 21900000,
       "developerName": "osy",
       "localizedDescription": "If you would like to connect to other ios deevices use this app.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.osy86.Jitterbug.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.osy86.Jitterbug.png"
     },
     {
       "name": "TwitchPlus",
@@ -342,7 +342,7 @@
       "size": 17700000,
       "developerName": "zxcvbn",
       "localizedDescription": "Twitch injected with plus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/tv.twitch.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/tv.twitch.png"
     },
     {
       "name": "TrollInstallerMDC",
@@ -366,7 +366,7 @@
       "size": 300000,
       "developerName": "Aidoku",
       "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/xyz.skitty.Aidoku.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/xyz.skitty.Aidoku.png"
     },
     {
       "name": "Otraku",
@@ -378,7 +378,7 @@
       "size": 23000000,
       "developerName": "lotusprey",
       "localizedDescription": "An unofficial AniList app.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.otraku.app.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.otraku.app.png"
     },
     {
       "name": "Delta",
@@ -390,7 +390,7 @@
       "size": 83700000,
       "developerName": "AltStore",
       "localizedDescription": "Delta, the best emulator app. (Requires A controller)",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.rileytestut.Delta.Beta.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.rileytestut.Delta.Beta.png"
     },
     {
       "name": "Paperback",
@@ -402,7 +402,7 @@
       "size": 63800000,
       "developerName": "N/A",
       "localizedDescription": "Paperback is an ad-free comic/manga reader for Apple devices. It supports Komga and other third party extensions.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/dev.faizandurrani.moe.paperback.app.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/dev.faizandurrani.moe.paperback.app.png"
     },
         {
       "name": "BHInstagram",
@@ -414,7 +414,7 @@
       "size": 123000000,
       "developerName": "BandarHL",
       "localizedDescription": "Instagram injected with BH",
-      "iconURL": "https://github.com/usearcticsigner/Repo/blob/main/icons/com.burbn.instagram.png?raw=true"
+      "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/com.burbn.instagram.png?raw=true"
     },
     {
       "name": "DLTikTok",
@@ -423,10 +423,10 @@
       "version": "34.7.1-2.0.5",
       "versionDate": "2024-05-30",
       "size": 211345833,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/DLTikTok-34.7.1-2.0.5.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/DLTikTok-34.7.1-2.0.5.ipa",
       "developerName": "nowesr1",
       "localizedDescription": "Tiktok injected with DL.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.zhiliaoapp.musically.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "InstagramLRD",
@@ -435,10 +435,10 @@
       "version": "333.0.4",
       "versionDate": "2024-05-30",
       "size": 156798149,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/InstagramLRD-333.0.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/InstagramLRD-333.0.4.ipa",
       "developerName": "nowesr1",
       "localizedDescription": "Instagram injected with LRD.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "InstagramRocket",
@@ -447,10 +447,10 @@
       "version": "333.0.4-3.8.24",
       "versionDate": "2024-05-30",
       "size": 156564874,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/InstagramRocket-333.0.4-3.8.24.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/InstagramRocket-333.0.4-3.8.24.ipa",
       "developerName": "Ed0.ipa",
       "localizedDescription": "Instagram injected with Rocket.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "TikTokDark",
@@ -459,10 +459,10 @@
       "version": "34.7.1",
       "versionDate": "2024-05-30",
       "size": 211291121,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/TikTokDark-34.7.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/TikTokDark-34.7.1.ipa",
       "developerName": "Manpreet",
       "localizedDescription": "Tiktok injected with dark.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.zhiliaoapp.musically.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "TikTokLRD",
@@ -471,10 +471,10 @@
       "version": "3.4-34.7.0",
       "versionDate": "2024-05-30",
       "size": 191963635,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/TikTokLRD-3.4-34.7.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/TikTokLRD-3.4-34.7.0.ipa",
       "developerName": "zxcvbn",
       "localizedDescription": "TikTok injected with LRD.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.zhiliaoapp.musically.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "TrollRecorder",
@@ -483,10 +483,10 @@
       "version": "1.9.7-183",
       "versionDate": "2024-05-30",
       "size": 3286009,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
       "developerName": "Lessica",
       "localizedDescription": "TrollRecorder is an Advanced audio recorder with TrollStore.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/wiki.qaq.trapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/wiki.qaq.trapp.png"
     },
     {
       "name": "InfusePro",
@@ -495,10 +495,10 @@
       "version": "7.7.7-1.1.6",
       "versionDate": "2024-05-29",
       "size": 39043823,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-29-2024/InfusePro-7.7.7-1.1.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-29-2024/InfusePro-7.7.7-1.1.6.ipa",
       "developerName": "Suffuse-Team",
       "localizedDescription": "Infuse injected with Plus",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.firecore.infuse.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.firecore.infuse.png"
     },
     {
       "name": "DuolingoMax",
@@ -507,10 +507,10 @@
       "version": "7.23.0",
       "versionDate": "2024-05-27",
       "size": 113443307,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-27-2024/DuolingoMax-7.23.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-27-2024/DuolingoMax-7.23.0.ipa",
       "developerName": "ArianaMinajj",
       "localizedDescription": "Duolingo injected with Max.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.duolingo.DuolingoMobile.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
       "name": "PicsArtPlusPlus",
@@ -519,10 +519,10 @@
       "version": "25.0.1",
       "versionDate": "2024-05-27",
       "size": 102492411,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
       "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-27-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.picsart.studio.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.picsart.studio.png"
     },
     {
       "name": "AIChatbotGeniePro",
@@ -531,10 +531,10 @@
       "version": "6.2.3",
       "versionDate": "2024-05-23",
       "size": 54742203,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-23-2024/AIChatbotGeniePro-6.2.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-23-2024/AIChatbotGeniePro-6.2.3.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library",
       "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 05-25-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.appnation.geniechat.watchapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
       "name": "InstagramNyx",
@@ -543,10 +543,10 @@
       "version": "332.0.2-1.3.0b",
       "versionDate": "2024-05-23",
       "size": 153351369,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-23-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-23-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
       "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "FitbodElite",
@@ -555,10 +555,10 @@
       "version": "6.33.0",
       "versionDate": "2024-05-22",
       "size": 98332717,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-22-2024/FitbodElite-6.33.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-22-2024/FitbodElite-6.33.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 05-22-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.fitbod.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.fitbod.png"
     },
     {
       "name": "Pyoncord",
@@ -567,10 +567,10 @@
       "version": "230.0",
       "versionDate": "2024-05-21",
       "size": 99218413,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-21-2024/Pyoncord-230.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-21-2024/Pyoncord-230.0.ipa",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
       "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-29-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.hammerandchisel.discord.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hammerandchisel.discord.png"
     },
     {
       "name": "FacebookWolf",
@@ -579,10 +579,10 @@
       "version": "464.0.0",
       "versionDate": "2024-05-20",
       "size": 147131532,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-20-2024/FacebookWolf-464.0.0.ipa",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
       "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.facebook.Facebook.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Facebook.png"
     },
     {
       "name": "AlightMotionPremium",
@@ -591,10 +591,10 @@
       "version": "6.2.6",
       "versionDate": "2024-05-16",
       "size": 115205137,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-16-2024/AlightMotionPremium-6.2.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-16-2024/AlightMotionPremium-6.2.6.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.alightcreative.motion.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.alightcreative.motion.png"
     },
     {
       "name": "ibisPaintPrime",
@@ -603,10 +603,10 @@
       "version": "12.1.0",
       "versionDate": "2024-05-16",
       "size": 40706003,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-16-2024/ibisPaintPrime-12.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-16-2024/ibisPaintPrime-12.1.0.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs",
       "localizedDescription": "Popular drawing app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/jp.ne.ibis.ibisPaintX.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/jp.ne.ibis.ibisPaintX.png"
     },
     {
       "name": "MusixmatchPremium",
@@ -615,10 +615,10 @@
       "version": "7.10.8",
       "versionDate": "2024-05-14",
       "size": 74673060,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-14-2024/MusixmatchPremium-7.10.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-14-2024/MusixmatchPremium-7.10.8.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 05-14-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.musixmatch.lyrics.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.musixmatch.lyrics.png"
     },
     {
       "name": "AdobeAcrobatReaderPremium",
@@ -627,10 +627,10 @@
       "version": "24.04.51",
       "versionDate": "2024-05-13",
       "size": 163110773,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-13-2024/AdobeAcrobatReaderPremium-24.04.51.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-13-2024/AdobeAcrobatReaderPremium-24.04.51.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 05-13-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.adobe.Adobe-Reader.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adobe.Adobe-Reader.png"
     },
     {
       "name": "AIChatbotGeniePro",
@@ -639,10 +639,10 @@
       "version": "6.2.2",
       "versionDate": "2024-05-13",
       "size": 53619951,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-13-2024/AIChatbotGeniePro-6.2.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-13-2024/AIChatbotGeniePro-6.2.2.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library",
       "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 05-25-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.appnation.geniechat.watchapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
       "name": "HomeWorkoutPremium",
@@ -651,10 +651,10 @@
       "version": "1.24.12",
       "versionDate": "2024-05-13",
       "size": 349278616,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-13-2024/HomeWorkoutPremium-1.24.12.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-13-2024/HomeWorkoutPremium-1.24.12.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 05-13-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.abishkking.maleworkout.watchkitapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.abishkking.maleworkout.watchkitapp.png"
     },
     {
       "name": "MeituPlusPlus",
@@ -663,10 +663,10 @@
       "version": "10.10.1",
       "versionDate": "2024-05-13",
       "size": 251488874,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-13-2024/MeituPlusPlus-10.10.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-13-2024/MeituPlusPlus-10.10.1.ipa",
       "developerName": "iApps / iOS Tutorials + App Cracks",
       "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 05-13-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.meitu.mtxx.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.meitu.mtxx.png"
     },
     {
       "name": "AIChatSmithPremium",
@@ -675,10 +675,10 @@
       "version": "6.9.1",
       "versionDate": "2024-05-12",
       "size": 37573287,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-12-2024/AIChatSmithPremium-6.9.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-12-2024/AIChatSmithPremium-6.9.1.ipa",
       "developerName": "\u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / DPixel",
       "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 05-12-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.vulcanlabs.moodtracker.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.vulcanlabs.moodtracker.png"
     },
     {
       "name": "Flightradar24Gold",
@@ -687,10 +687,10 @@
       "version": "9.21.0",
       "versionDate": "2024-05-11",
       "size": 99237102,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-11-2024/Flightradar24Gold-9.21.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-11-2024/Flightradar24Gold-9.21.0.ipa",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
       "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
     },
     {
       "name": "MemrisePremium",
@@ -699,10 +699,10 @@
       "version": "2024.4.19",
       "versionDate": "2024-05-11",
       "size": 83114360,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-11-2024/MemrisePremium-2024.4.19.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-11-2024/MemrisePremium-2024.4.19.ipa",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
       "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.memrise.ios.memrisecompanion.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.memrise.ios.memrisecompanion.png"
     },
     {
       "name": "SparkPremium",
@@ -711,10 +711,10 @@
       "version": "3.9.6",
       "versionDate": "2024-05-11",
       "size": 121485106,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-11-2024/SparkPremium-3.9.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-11-2024/SparkPremium-3.9.6.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
       "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.readdle.smartemail.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.readdle.smartemail.png"
     },
     {
       "name": "FlightTrackerPremium",
@@ -723,10 +723,10 @@
       "version": "6.9.8",
       "versionDate": "2024-05-10",
       "size": 139276753,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-10-2024/FlightTrackerPremium-6.9.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-10-2024/FlightTrackerPremium-6.9.8.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 05-10-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.iaftt.flightplusfree.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iaftt.flightplusfree.png"
     },
     {
       "name": "AIChatbotGeniePro",
@@ -735,10 +735,10 @@
       "version": "6.2.1",
       "versionDate": "2024-05-09",
       "size": 57171031,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-09-2024/AIChatbotGeniePro-6.2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-09-2024/AIChatbotGeniePro-6.2.1.ipa",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library",
       "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 05-25-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.appnation.geniechat.watchapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.appnation.geniechat.watchapp.png"
     },
     {
       "name": "YukaPremium",
@@ -747,10 +747,10 @@
       "version": "4.36",
       "versionDate": "2024-05-09",
       "size": 128066428,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-09-2024/YukaPremium-4.36.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-09-2024/YukaPremium-4.36.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 05-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/yuca.scanner.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/yuca.scanner.png"
     },
     {
       "name": "iTranslatePro",
@@ -759,10 +759,10 @@
       "version": "17.3.8",
       "versionDate": "2024-05-07",
       "size": 95327276,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-07-2024/iTranslatePro-17.3.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-07-2024/iTranslatePro-17.3.8.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Injected with Pro. Translation and dictionary app making it easy to break language barriers. It allows for easy translation of text, websites, objects, and voice conversations in over 100 languages. Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should grant access to other features like iTranslate keyboard.\nLast updated: 05-07-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.outerspaceapps.itranslate.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.outerspaceapps.itranslate.png"
     },
     {
       "name": "LocketWidgetGold",
@@ -771,10 +771,10 @@
       "version": "1.75.0",
       "versionDate": "2024-05-07",
       "size": 98627916,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-07-2024/LocketWidgetGold-1.75.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-07-2024/LocketWidgetGold-1.75.0.ipa",
       "developerName": "ipalibrary.me",
       "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.locket.Locket.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.locket.Locket.png"
     },
     {
       "name": "MacroFactorPremium",
@@ -783,10 +783,10 @@
       "version": "2.7.9",
       "versionDate": "2024-05-07",
       "size": 66117942,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-07-2024/MacroFactorPremium-2.7.9.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-07-2024/MacroFactorPremium-2.7.9.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.sbs.diet.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sbs.diet.png"
     },
     {
       "name": "MyFitnessPalPremium",
@@ -795,10 +795,10 @@
       "version": "24.17.0",
       "versionDate": "2024-05-07",
       "size": 78267994,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-07-2024/MyFitnessPalPremium-24.17.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-07-2024/MyFitnessPalPremium-24.17.0.ipa",
       "developerName": "ipalibrary.me",
       "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.myfitnesspal.mfp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.myfitnesspal.mfp.png"
     },
     {
       "name": "ObjectRemoval",
@@ -807,10 +807,10 @@
       "version": "4.3.6",
       "versionDate": "2024-05-06",
       "size": 272114001,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-06-2024/ObjectRemoval-4.3.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-06-2024/ObjectRemoval-4.3.6.ipa",
       "developerName": "FayezUpdates",
       "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 05-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.skysoft.removalfree.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.skysoft.removalfree.png"
     },
     {
       "name": "AlarmyPremium",
@@ -819,10 +819,10 @@
       "version": "24.22.1",
       "versionDate": "2024-05-05",
       "size": 164130313,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-05-2024/AlarmyPremium-24.22.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-05-2024/AlarmyPremium-24.22.1.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/droom.sleepIfUCanFree.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/droom.sleepIfUCanFree.png"
     },
     {
       "name": "BoostcampPro",
@@ -831,10 +831,10 @@
       "version": "2.0.21",
       "versionDate": "2024-05-05",
       "size": 43350846,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-05-2024/BoostcampPro-2.0.21.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-05-2024/BoostcampPro-2.0.21.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Fitness app designed for gym aficionados. It offers professionally-crafted workout plans, allows users to create personalized multi-week exercise schedules, and enables workout tracking. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.bpmhealth.boostfitness.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bpmhealth.boostfitness.png"
     },
     {
       "name": "StravaPremium",
@@ -843,10 +843,10 @@
       "version": "357.0.1",
       "versionDate": "2024-05-05",
       "size": 139654227,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-05-2024/StravaPremium-357.0.1.ipa",
       "developerName": "Dell",
       "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts\u2014all in one place. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.strava.stravaride.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.strava.stravaride.png"
     },
     {
       "name": "OniriPremium",
@@ -855,10 +855,10 @@
       "version": "4.5.5",
       "versionDate": "2024-05-04",
       "size": 80376918,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-04-2024/OniriPremium-4.5.5.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-04-2024/OniriPremium-4.5.5.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 04-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.sublime.capture.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sublime.capture.png"
     },
     {
       "name": "RadarbotPro",
@@ -867,10 +867,10 @@
       "version": "9.15.2",
       "versionDate": "2024-05-04",
       "size": 227070074,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-04-2024/RadarbotPro-9.15.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-04-2024/RadarbotPro-9.15.2.ipa",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
       "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
       "name": "VSCOPremium",
@@ -879,10 +879,10 @@
       "version": "372.0",
       "versionDate": "2024-05-04",
       "size": 120648502,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-04-2024/VSCOPremium-372.0.ipa",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
       "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-24-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.visualsupply.cam.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.visualsupply.cam.png"
     },
     {
       "name": "WaterMinderPremium",
@@ -891,10 +891,10 @@
       "version": "6.5.3",
       "versionDate": "2024-05-04",
       "size": 452810800,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-04-2024/WaterMinderPremium-6.5.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-04-2024/WaterMinderPremium-6.5.3.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.waterminder.waterminder.watchkitapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
       "name": "KetchupPlus",
@@ -903,10 +903,10 @@
       "version": "2024.2",
       "versionDate": "2024-05-03",
       "size": 191218824,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-03-2024/KetchupPlus-2024.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-03-2024/KetchupPlus-2024.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 05-03-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.benricemccarthy.ketchup.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.benricemccarthy.ketchup.png"
     },
     {
       "name": "ChargeLimiter",
@@ -915,10 +915,10 @@
       "version": "1.6",
       "versionDate": "2024-05-02",
       "size": 2445765,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-02-2024/ChargeLimiter-1.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-02-2024/ChargeLimiter-1.6.ipa",
       "developerName": "lich4",
       "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 05-02-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/chaoge.ChargeLimiter.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/chaoge.ChargeLimiter.png"
     },
     {
       "name": "Downie",
@@ -927,10 +927,10 @@
       "version": "1.0-95",
       "versionDate": "2024-05-02",
       "size": 22818818,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-02-2024/Downie-1.0-95.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-02-2024/Downie-1.0-95.ipa",
       "developerName": "TestFlight",
       "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.charliemonroe.Downie.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.charliemonroe.Downie.png"
     },
     {
       "name": "EarthquakePro",
@@ -939,10 +939,10 @@
       "version": "4.6.8",
       "versionDate": "2024-05-02",
       "size": 11683418,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-02-2024/EarthquakePro-4.6.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-02-2024/EarthquakePro-4.6.8.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Access the latest global data from multiple sources and stay informed with push notification alerts. Note: Install this version, configure notifications to your liking, then proceed to install the AppStore version over it. To bypass the \"Integrity checks failed\" message, press \"OK\" then quickly return to the Home Screen without closing the app. (Only needed to use latest versions and widgets)\nLast updated: 05-02-2024\nStatus: \u2705 \u2b50 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/org.tranquilli.Earthquake.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/org.tranquilli.Earthquake.png"
     },
     {
       "name": "Opener",
@@ -951,10 +951,10 @@
       "version": "1.13",
       "versionDate": "2024-05-01",
       "size": 624822,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-01-2024/Opener-1.13.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-01-2024/Opener-1.13.ipa",
       "developerName": "CyPwn IPA library",
       "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 05-01-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.tijo.opener.Opener.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tijo.opener.Opener.png"
     },
     {
       "name": "WeatherSuper",
@@ -963,10 +963,10 @@
       "version": "3.23",
       "versionDate": "2024-05-01",
       "size": 120244159,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-01-2024/WeatherSuper-3.23.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-01-2024/WeatherSuper-3.23.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
       "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 05-01-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.andyworks.weather.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.andyworks.weather.png"
     },
     {
       "name": "FastingPremium",
@@ -975,10 +975,10 @@
       "version": "1.6.7",
       "versionDate": "2024-04-30",
       "size": 251598304,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-30-2024/FastingPremium-1.6.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-30-2024/FastingPremium-1.6.7.ipa",
       "developerName": "Paisseon",
       "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 04-30-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.leapfitness.fasting.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.leapfitness.fasting.png"
     },
     {
       "name": "MyDiaryPremium",
@@ -987,10 +987,10 @@
       "version": "1.6.1",
       "versionDate": "2024-04-29",
       "size": 39727430,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-29-2024/MyDiaryPremium-1.6.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-29-2024/MyDiaryPremium-1.6.1.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 04-29-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.simpleinnovation.diary.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.simpleinnovation.diary.png"
     },
     {
       "name": "VidsAIPro",
@@ -999,10 +999,10 @@
       "version": "1.58.0",
       "versionDate": "2024-04-29",
       "size": 148851342,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-29-2024/VidsAIPro-1.58.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-29-2024/VidsAIPro-1.58.0.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/viral.vision.vids.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/viral.vision.vids.png"
     },
     {
       "name": "MatterPremium",
@@ -1011,10 +1011,10 @@
       "version": "3.1.4",
       "versionDate": "2024-04-28",
       "size": 83875186,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-28-2024/MatterPremium-3.1.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-28-2024/MatterPremium-3.1.4.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 04-28-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.Matter.MatterApp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.Matter.MatterApp.png"
     },
     {
       "name": "PixelPalsPremium",
@@ -1023,10 +1023,10 @@
       "version": "2.0.13",
       "versionDate": "2024-04-25",
       "size": 15367632,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-25-2024/PixelPalsPremium-2.0.13.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-25-2024/PixelPalsPremium-2.0.13.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
       "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets, enhancing your app navigation and phone unlocking experience. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.christian.PixelPals.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.christian.PixelPals.png"
     },
     {
       "name": "onesecpro",
@@ -1035,10 +1035,10 @@
       "version": "3.8",
       "versionDate": "2024-04-24",
       "size": 110550786,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-24-2024/onesecpro-3.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-24-2024/onesecpro-3.8.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3 / Crack Hub",
       "localizedDescription": "App that helps you taking a deep breath before accessing selected websites or apps (like Twitter, YouTube, Instagram), disrupting immediate social media habits and introducing a deliberate pause to reduce usage over time. A user requested it so here it is.\nLast updated: 04-24-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/wtf.riedel.one-sec.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/wtf.riedel.one-sec.png"
     },
     {
       "name": "DocumentsPlus",
@@ -1047,10 +1047,10 @@
       "version": "8.11",
       "versionDate": "2024-04-23",
       "size": 156715888,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 04-23-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
     },
     {
       "name": "FitbodElite",
@@ -1059,10 +1059,10 @@
       "version": "6.31.0",
       "versionDate": "2024-04-23",
       "size": 98332477,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-23-2024/FitbodElite-6.31.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-23-2024/FitbodElite-6.31.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 05-22-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.fitbod.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.fitbod.png"
     },
     {
       "name": "InShotPro",
@@ -1071,10 +1071,10 @@
       "version": "1.77.1",
       "versionDate": "2024-04-23",
       "size": 149778320,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-23-2024/InShotPro-1.77.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-23-2024/InShotPro-1.77.1.ipa",
       "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
       "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 04-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.camerasideas.InstaShot.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.camerasideas.InstaShot.png"
     },
     {
       "name": "SafeLockPremium",
@@ -1083,10 +1083,10 @@
       "version": "2.14",
       "versionDate": "2024-04-23",
       "size": 16341590,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-23-2024/SafeLockPremium-2.14.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-23-2024/SafeLockPremium-2.14.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "This app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.appslab.safelock.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.appslab.safelock.png"
     },
     {
       "name": "PicsewPro",
@@ -1095,10 +1095,10 @@
       "version": "3.9.7",
       "versionDate": "2024-04-22",
       "size": 27760811,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-22-2024/PicsewPro-3.9.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-22-2024/PicsewPro-3.9.7.ipa",
       "developerName": "iOS\u5b9d\u85cf",
       "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.sugarmo.ScrollClip.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sugarmo.ScrollClip.png"
     },
     {
       "name": "PicStitchPro",
@@ -1107,10 +1107,10 @@
       "version": "8.3.2",
       "versionDate": "2024-04-22",
       "size": 225086655,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-22-2024/PicStitchPro-8.3.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-22-2024/PicStitchPro-8.3.2.ipa",
       "developerName": "Turki",
       "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 04-22-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.bigblueclip.picstitch.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bigblueclip.picstitch.png"
     },
     {
       "name": "StitchPicsPro",
@@ -1119,10 +1119,10 @@
       "version": "2.1.108",
       "versionDate": "2024-04-22",
       "size": 13954471,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-22-2024/StitchPicsPro-2.1.108.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-22-2024/StitchPicsPro-2.1.108.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 04-22-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.xcvzaq.imagejoin.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.xcvzaq.imagejoin.png"
     },
     {
       "name": "Things3",
@@ -1131,10 +1131,10 @@
       "version": "3.20.8",
       "versionDate": "2024-04-22",
       "size": 55987113,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-22-2024/Things3-3.20.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-22-2024/Things3-3.20.8.ipa",
       "developerName": "N/A",
       "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 04-22-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
     },
     {
       "name": "MacroFactorPremium",
@@ -1143,10 +1143,10 @@
       "version": "2.7.4",
       "versionDate": "2024-04-21",
       "size": 67803633,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-21-2024/MacroFactorPremium-2.7.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-21-2024/MacroFactorPremium-2.7.4.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.sbs.diet.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sbs.diet.png"
     },
     {
       "name": "ElectricalCalculationsPro",
@@ -1155,10 +1155,10 @@
       "version": "7.0.2",
       "versionDate": "2024-04-20",
       "size": 15760313,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-20-2024/ElectricalCalculationsPro-7.0.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-20-2024/ElectricalCalculationsPro-7.0.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 04-20-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
     },
     {
       "name": "Spotilife",
@@ -1167,10 +1167,10 @@
       "version": "8.9.32",
       "versionDate": "2024-04-20",
       "size": 69679272,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-20-2024/Spotilife-8.9.32.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-20-2024/Spotilife-8.9.32.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
       "localizedDescription": "This version has support for CarPlay when installed via TrollStore. Note: Updates were made solely for the purpose of archiving. Support will not be provided so please refrain from submitting any issues.\nLast updated: 04-20-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.spotify.client.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.spotify.client.png"
     },
     {
       "name": "TransitRoyale",
@@ -1179,10 +1179,10 @@
       "version": "5.15.16",
       "versionDate": "2024-04-20",
       "size": 70962869,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-20-2024/TransitRoyale-5.15.16.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-20-2024/TransitRoyale-5.15.16.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.samvermette.Transit.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.samvermette.Transit.png"
     },
     {
       "name": "AlarmyPremium",
@@ -1191,10 +1191,10 @@
       "version": "24.21.1",
       "versionDate": "2024-04-19",
       "size": 161819886,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-19-2024/AlarmyPremium-24.21.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-19-2024/AlarmyPremium-24.21.1.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/droom.sleepIfUCanFree.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/droom.sleepIfUCanFree.png"
     },
     {
       "name": "AppLockPro",
@@ -1203,10 +1203,10 @@
       "version": "3.1.2",
       "versionDate": "2024-04-19",
       "size": 15928622,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.lilucat.applock.us.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.lilucat.applock.us.png"
     },
     {
       "name": "LoopsiePro",
@@ -1215,10 +1215,10 @@
       "version": "8.10.2",
       "versionDate": "2024-04-19",
       "size": 185592561,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-19-2024/LoopsiePro-8.10.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-19-2024/LoopsiePro-8.10.2.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
       "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.gamelounge.loopsie.ios.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.gamelounge.loopsie.ios.png"
     },
     {
       "name": "FitnessAIPremium",
@@ -1227,10 +1227,10 @@
       "version": "8.12.12",
       "versionDate": "2024-04-18",
       "size": 77576260,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/FitnessAIPremium-8.12.12.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/FitnessAIPremium-8.12.12.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.jakemor.firness-ai.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.jakemor.firness-ai.png"
     },
     {
       "name": "InstoriesPro",
@@ -1239,10 +1239,10 @@
       "version": "5.54.1",
       "versionDate": "2024-04-18",
       "size": 206379615,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/InstoriesPro-5.54.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/InstoriesPro-5.54.1.ipa",
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/ylee.studio.instories.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ylee.studio.instories.png"
     },
     {
       "name": "LocketWidgetGold",
@@ -1251,10 +1251,10 @@
       "version": "1.71.0",
       "versionDate": "2024-04-18",
       "size": 98143607,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/LocketWidgetGold-1.71.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/LocketWidgetGold-1.71.0.ipa",
       "developerName": "ipalibrary.me",
       "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.locket.Locket.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.locket.Locket.png"
     },
     {
       "name": "MoisesPremium",
@@ -1263,10 +1263,10 @@
       "version": "2.40.0",
       "versionDate": "2024-04-18",
       "size": 60999285,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/MoisesPremium-2.40.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/MoisesPremium-2.40.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreeets",
       "localizedDescription": "AI-powered app for musicians, offering vocal and instrument separation. Transform any song for karaoke, acapella, or instrumental tracks, adjusting key and tempo as desired. A user requested it so here it is. Note: Tweak appears to be highly unstable with frequent crashes.\nLast updated: 04-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/ai.moises.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ai.moises.png"
     },
     {
       "name": "MuslimProPlus",
@@ -1275,10 +1275,10 @@
       "version": "15.3",
       "versionDate": "2024-04-18",
       "size": 147321979,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/MuslimProPlus-15.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/MuslimProPlus-15.3.ipa",
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "Deepen your commitment to Islam with Muslim Pro as your app companion. Enjoy a brand new experience with personalized learning and memorization tools, explore our new AI bot that can answer your Islamic questions at any time, and watch exciting Ramadan shows exclusively on Qalbox. Note: AI feature is unavailable.\nLast updated: 04-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.bitsmedia.muslimpro.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bitsmedia.muslimpro.png"
     },
     {
       "name": "NGLPro",
@@ -1287,10 +1287,10 @@
       "version": "6.1.90",
       "versionDate": "2024-04-18",
       "size": 42194610,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-18-2024/NGLPro-6.1.90.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/NGLPro-6.1.90.ipa",
       "developerName": "AbodSyripa",
       "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/fun.ask.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/fun.ask.png"
     },
     {
       "name": "InstaNyxBH",
@@ -1299,10 +1299,10 @@
       "version": "327.1.0-1.2.4",
       "versionDate": "2024-04-16",
       "size": 148421214,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-16-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-16-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Not cracked. Injected with both Nyx and BH. A user requested it so here it is.\nLast updated: 04-16-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "InstaRocketCracked",
@@ -1311,10 +1311,10 @@
       "version": "327.1.0-3.8.24",
       "versionDate": "2024-04-16",
       "size": 146082121,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-16-2024/InstaRocketCracked-327.1.0-3.8.24.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-16-2024/InstaRocketCracked-327.1.0-3.8.24.ipa",
       "developerName": "AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
       "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 04-16-2024\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "DarkNoisePro",
@@ -1323,10 +1323,10 @@
       "version": "3.2.6",
       "versionDate": "2024-04-15",
       "size": 38006205,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-15-2024/DarkNoisePro-3.2.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-15-2024/DarkNoisePro-3.2.6.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.charliemchapman.dark-noise.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.charliemchapman.dark-noise.png"
     },
     {
       "name": "AdGuardPro",
@@ -1335,10 +1335,10 @@
       "version": "4.5.3",
       "versionDate": "2024-04-13",
       "size": 31307624,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-13-2024/AdGuardPro-4.5.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-13-2024/AdGuardPro-4.5.3.ipa",
       "developerName": "N/A",
       "localizedDescription": "An extremely effective ad blocker for Safari. It not only eliminates annoying ads but also enhances your privacy with advanced tracking protection. AdGuard for iOS is an open-source app that is completely transparent and safe to use. Note: DNS protection is effective but it may cause conflicts with other services in use. Despite this, I highly recommend using it. (To block telemetry for example, such as ESign.)\nLast updated: 04-13-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.adguard.AdguardPro.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adguard.AdguardPro.png"
     },
     {
       "name": "FlightTrackerPremium",
@@ -1347,10 +1347,10 @@
       "version": "6.9.5",
       "versionDate": "2024-04-13",
       "size": 141415691,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-13-2024/FlightTrackerPremium-6.9.5.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-13-2024/FlightTrackerPremium-6.9.5.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 05-10-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.iaftt.flightplusfree.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iaftt.flightplusfree.png"
     },
     {
       "name": "PolishPro",
@@ -1359,10 +1359,10 @@
       "version": "1.7.1",
       "versionDate": "2024-04-06",
       "size": 133546470,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-06-2024/PolishPro-1.7.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-06-2024/PolishPro-1.7.1.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.photoeditor.polish.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.photoeditor.polish.png"
     },
     {
       "name": "Rosiecord",
@@ -1371,10 +1371,10 @@
       "version": "223.0",
       "versionDate": "2024-04-06",
       "size": 106773646,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-06-2024/Rosiecord-223.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-06-2024/Rosiecord-223.0.ipa",
       "developerName": "acquitelol",
       "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.hammerandchisel.discord.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hammerandchisel.discord.png"
     },
     {
       "name": "TarteelPremium",
@@ -1383,10 +1383,10 @@
       "version": "5.39.7",
       "versionDate": "2024-04-06",
       "size": 110919920,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-06-2024/TarteelPremium-5.39.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-06-2024/TarteelPremium-5.39.7.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.iqraapp.Iqra.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iqraapp.Iqra.png"
     },
     {
       "name": "OutsidePro",
@@ -1395,10 +1395,10 @@
       "version": "0.74.0",
       "versionDate": "2024-04-04",
       "size": 66395387,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-04-2024/OutsidePro-0.74.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-04-2024/OutsidePro-0.74.0.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 04-04-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/so.outside.app.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/so.outside.app.png"
     },
     {
       "name": "TikTokDark",
@@ -1407,10 +1407,10 @@
       "version": "34.1.0",
       "versionDate": "2024-04-04",
       "size": 247020127,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
       "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
       "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 05-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.zhiliaoapp.musically.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "TikTokLRD",
@@ -1419,10 +1419,10 @@
       "version": "3.0-34.1.0",
       "versionDate": "2024-04-04",
       "size": 248827108,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-04-2024/TikTokLRD-3.0-34.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-04-2024/TikTokLRD-3.0-34.1.0.ipa",
       "developerName": "zxcvbn\u2019s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
       "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 05-30-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.zhiliaoapp.musically.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
       "name": "CodeRunnerPro",
@@ -1431,10 +1431,10 @@
       "version": "1.3.6",
       "versionDate": "2024-04-03",
       "size": 25589026,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-03-2024/CodeRunnerPro-1.3.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-03-2024/CodeRunnerPro-1.3.6.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub repositories directly. A user requested it so here it is.\nLast updated: 04-03-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.markodevcic.code-runner.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.markodevcic.code-runner.png"
     },
     {
       "name": "LightroomPremium",
@@ -1443,10 +1443,10 @@
       "version": "9.2.1",
       "versionDate": "2024-04-01",
       "size": 166970182,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-01-2024/LightroomPremium-9.2.1.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 04-01-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.adobe.lrmobilephone.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
       "name": "OpalPro",
@@ -1455,10 +1455,10 @@
       "version": "3.56",
       "versionDate": "2024-04-01",
       "size": 85467018,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-01-2024/OpalPro-3.56.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-01-2024/OpalPro-3.56.ipa",
       "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
       "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 04-01-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.withopal.opal.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.withopal.opal.png"
     },
     {
       "name": "PhotoshopExpress",
@@ -1467,10 +1467,10 @@
       "version": "24.12.1",
       "versionDate": "2024-04-01",
       "size": 158108176,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-01-2024/PhotoshopExpress-24.12.1.ipa",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
       "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-10-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.adobe.PSMobile.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adobe.PSMobile.png"
     },
     {
       "name": "Ignited",
@@ -1479,10 +1479,10 @@
       "version": "1.10",
       "versionDate": "2024-03-29",
       "size": 35402158,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-29-2024/Ignited-1.10.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-29-2024/Ignited-1.10.ipa",
       "developerName": "LitRitt",
       "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.litritt.ignited.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.litritt.ignited.png"
     },
     {
       "name": "ImpulsePro",
@@ -1491,10 +1491,10 @@
       "version": "1.30.12",
       "versionDate": "2024-03-29",
       "size": 75415910,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-29-2024/ImpulsePro-1.30.12.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/gen.tech.impulse.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/gen.tech.impulse.png"
     },
     {
       "name": "NightSkyPlus",
@@ -1503,10 +1503,10 @@
       "version": "12.3",
       "versionDate": "2024-03-29",
       "size": 663639512,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-29-2024/NightSkyPlus-12.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-29-2024/NightSkyPlus-12.3.ipa",
       "developerName": "iOSGods!",
       "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 03-29-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.icandiapps.nightsky.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.icandiapps.nightsky.png"
     },
     {
       "name": "EnhanceFoxPro",
@@ -1515,10 +1515,10 @@
       "version": "7.2.1",
       "versionDate": "2024-03-27",
       "size": 189215808,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/EnhanceFoxPro-7.2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/EnhanceFoxPro-7.2.1.ipa",
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.risingcabbage.enhancefox.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.risingcabbage.enhancefox.png"
     },
     {
       "name": "Folium",
@@ -1527,10 +1527,10 @@
       "version": "1.1.4Cytrus",
       "versionDate": "2024-03-27",
       "size": 19916532,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/Folium-1.1.4Cytrus.ipa",
       "developerName": "Jarrod Norwell (Antique)",
       "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: \u2754",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.antique.Folium.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.antique.Folium.png"
     },
     {
       "name": "Opener",
@@ -1539,10 +1539,10 @@
       "version": "1.12.6",
       "versionDate": "2024-03-27",
       "size": 525501,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/Opener-1.12.6.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/Opener-1.12.6.ipa",
       "developerName": "CyPwn IPA library",
       "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 05-01-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.tijo.opener.Opener.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tijo.opener.Opener.png"
     },
     {
       "name": "PixelWeather",
@@ -1551,10 +1551,10 @@
       "version": "7.0.3",
       "versionDate": "2024-03-27",
       "size": 51998849,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/PixelWeather-7.0.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/PixelWeather-7.0.3.ipa",
       "developerName": "N/A",
       "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.woo-interactive.PixelWeather.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.woo-interactive.PixelWeather.png"
     },
     {
       "name": "ScannerProPlus",
@@ -1563,10 +1563,10 @@
       "version": "8.17.3",
       "versionDate": "2024-03-27",
       "size": 112797069,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/ScannerProPlus-8.17.3.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.readdle.Scanner.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.readdle.Scanner.png"
     },
     {
       "name": "SparkPremium",
@@ -1575,10 +1575,10 @@
       "version": "3.9.2",
       "versionDate": "2024-03-27",
       "size": 97707884,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/SparkPremium-3.9.2.ipa",
       "developerName": "zxcvbn's tweaked IPAs",
       "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.readdle.smartemail.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.readdle.smartemail.png"
     },
     {
       "name": "TruecallerPremium",
@@ -1587,10 +1587,10 @@
       "version": "12.86.5",
       "versionDate": "2024-03-27",
       "size": 98391105,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/TruecallerPremium-12.86.5.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/TruecallerPremium-12.86.5.ipa",
       "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
       "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: \u2754 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.truesoftware.TrueCallerOther.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.truesoftware.TrueCallerOther.png"
     },
     {
       "name": "VPNSatoshi",
@@ -1599,10 +1599,10 @@
       "version": "2.20",
       "versionDate": "2024-03-27",
       "size": 50398330,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/VPNSatoshi-2.20.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/VPNSatoshi-2.20.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.vpnsatoshi.vpnsatoshiapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.vpnsatoshi.vpnsatoshiapp.png"
     },
     {
       "name": "WallcraftPro",
@@ -1611,10 +1611,10 @@
       "version": "3.14",
       "versionDate": "2024-03-27",
       "size": 91839901,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/WallcraftPro-3.14.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/WallcraftPro-3.14.ipa",
       "developerName": "DPixel",
       "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.wallpaperscraft.wallpapers.png"
     },
     {
       "name": "YukaPremium",
@@ -1623,10 +1623,10 @@
       "version": "4.35",
       "versionDate": "2024-03-27",
       "size": 123092775,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2024/YukaPremium-4.35.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2024/YukaPremium-4.35.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 05-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/yuca.scanner.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/yuca.scanner.png"
     },
     {
       "name": "CanYouJB",
@@ -1635,10 +1635,10 @@
       "version": "3.0",
       "versionDate": "2024-03-26",
       "size": 394796,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-26-2024/CanYouJB-3.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-26-2024/CanYouJB-3.0.ipa",
       "developerName": "SamoXcZ",
       "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.CanYouJB.SamoXcZ.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.CanYouJB.SamoXcZ.png"
     },
     {
       "name": "PhotoleapPro",
@@ -1647,10 +1647,10 @@
       "version": "2.71",
       "versionDate": "2024-03-24",
       "size": 357248206,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-24-2024/PhotoleapPro-2.71.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-24-2024/PhotoleapPro-2.71.ipa",
       "developerName": "Manpreet Singh @thisismanpreets",
       "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 03-24-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.lightricks.Enlight-Editor.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.lightricks.Enlight-Editor.png"
     },
     {
       "name": "MuslimProPlus",
@@ -1659,10 +1659,10 @@
       "version": "15.2.1",
       "versionDate": "2024-03-23",
       "size": 138906790,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-23-2024/MuslimProPlus-15.2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-23-2024/MuslimProPlus-15.2.1.ipa",
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "Deepen your commitment to Islam with Muslim Pro as your app companion. Enjoy a brand new experience with personalized learning and memorization tools, explore our new AI bot that can answer your Islamic questions at any time, and watch exciting Ramadan shows exclusively on Qalbox. Note: AI feature is unavailable.\nLast updated: 04-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.bitsmedia.muslimpro.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bitsmedia.muslimpro.png"
     },
     {
       "name": "BoostcampPro",
@@ -1671,10 +1671,10 @@
       "version": "2.0.16",
       "versionDate": "2024-03-21",
       "size": 40466932,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-21-2024/BoostcampPro-2.0.16.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-21-2024/BoostcampPro-2.0.16.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Fitness app designed for gym aficionados. It offers professionally-crafted workout plans, allows users to create personalized multi-week exercise schedules, and enables workout tracking. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.bpmhealth.boostfitness.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bpmhealth.boostfitness.png"
     },
     {
       "name": "SwipewipePremium",
@@ -1683,10 +1683,10 @@
       "version": "2.03.00",
       "versionDate": "2024-03-21",
       "size": 22648829,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-21-2024/SwipewipePremium-2.03.00.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-21-2024/SwipewipePremium-2.03.00.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 03-21-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.aoklab.fewerphotos.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.aoklab.fewerphotos.png"
     },
     {
       "name": "TrollSpeed",
@@ -1695,10 +1695,10 @@
       "version": "1.11.11",
       "versionDate": "2024-03-18",
       "size": 162640,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-18-2024/TrollSpeed-1.11.11.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-18-2024/TrollSpeed-1.11.11.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-18-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/ch.xxtou.hudapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ch.xxtou.hudapp.png"
     },
     {
       "name": "FlacboxPro",
@@ -1707,10 +1707,10 @@
       "version": "5.3",
       "versionDate": "2024-03-17",
       "size": 41199562,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-17-2024/FlacboxPro-5.3.ipa",
       "developerName": "iApps",
       "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 04-29-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.leshko.flap.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.leshko.flap.png"
     },
     {
       "name": "Flycast",
@@ -1719,10 +1719,10 @@
       "version": "2.3",
       "versionDate": "2024-03-17",
       "size": 16799249,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-17-2024/Flycast-2.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-17-2024/Flycast-2.3.ipa",
       "developerName": "flyinghead",
       "localizedDescription": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user requested it so here it is.\nLast updated: 03-17-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.flyinghead.Flycast.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.flyinghead.Flycast.png"
     },
     {
       "name": "LocSim",
@@ -1731,10 +1731,10 @@
       "version": "1.4.1k",
       "versionDate": "2024-03-11",
       "size": 1467771,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-11-2024/LocSim-1.4.1k.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-11-2024/LocSim-1.4.1k.ipa",
       "developerName": "CyPwn IPA Library",
       "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.mika.LocationSimulation.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.mika.LocationSimulation.png"
     },
     {
       "name": "NightSkyPlus",
@@ -1743,10 +1743,10 @@
       "version": "12.2",
       "versionDate": "2024-03-10",
       "size": 659348721,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-10-2024/NightSkyPlus-12.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-10-2024/NightSkyPlus-12.2.ipa",
       "developerName": "iOSGods!",
       "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 03-29-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.icandiapps.nightsky.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.icandiapps.nightsky.png"
     },
     {
       "name": "SnapchatFalcon",
@@ -1755,10 +1755,10 @@
       "version": "2.1-12.76.1",
       "versionDate": "2024-03-10",
       "size": 107340505,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-10-2024/SnapchatFalcon-2.1-12.76.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-10-2024/SnapchatFalcon-2.1-12.76.1.ipa",
       "developerName": "iCrackIPA / zxcvbn's tweaked IPAs / AppDB / m7 / RobsMods / riadipa",
       "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.toyopagroup.picaboo.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.toyopagroup.picaboo.png"
     },
     {
       "name": "UsagePro",
@@ -1767,10 +1767,10 @@
       "version": "4.20.3",
       "versionDate": "2024-03-10",
       "size": 19232013,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
       "developerName": "AbodSyripa",
       "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.olegst.usage.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.olegst.usage.png"
     },
     
     {
@@ -1780,10 +1780,10 @@
       "version": "3.5.3",
       "versionDate": "2024-03-07",
       "size": 40650672,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-07-2024/Soor-3.5.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-07-2024/Soor-3.5.3.ipa",
       "developerName": "Starfiles / AppDB",
       "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/me.tanmay.Music.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/me.tanmay.Music.png"
     },
     {
       "name": "BlackHole",
@@ -1792,10 +1792,10 @@
       "version": "1.15.11",
       "versionDate": "2024-03-06",
       "size": 18475866,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-06-2024/BlackHole-1.15.11.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-06-2024/BlackHole-1.15.11.ipa",
       "developerName": "Sangwan5688",
       "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.shadow.blackhole1160.ios.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.shadow.blackhole1160.ios.png"
     },
     {
       "name": "Musi",
@@ -1804,10 +1804,10 @@
       "version": "6.2.35",
       "versionDate": "2024-03-06",
       "size": 19556756,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-06-2024/Musi-6.2.35.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-06-2024/Musi-6.2.35.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.feelthemusi.musi.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.feelthemusi.musi.png"
     },
     {
       "name": "ReelsappPro",
@@ -1816,10 +1816,10 @@
       "version": "5.7",
       "versionDate": "2024-03-06",
       "size": 43839941,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-06-2024/ReelsappPro-5.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-06-2024/ReelsappPro-5.7.ipa",
       "developerName": "binnichtaktiv's iPA Library",
       "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.nextgen.reelsapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.nextgen.reelsapp.png"
     },
     {
       "name": "StructuredPro",
@@ -1828,10 +1828,10 @@
       "version": "3.4.0",
       "versionDate": "2024-02-25",
       "size": 96898251,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-25-2024/StructuredPro-3.4.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-25-2024/StructuredPro-3.4.0.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 02-25-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.leomehlig.today.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.leomehlig.today.png"
     },
     {
       "name": "TempoPro",
@@ -1840,10 +1840,10 @@
       "version": "4.50.2",
       "versionDate": "2024-02-25",
       "size": 117662123,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-25-2024/TempoPro-4.50.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-25-2024/TempoPro-4.50.2.ipa",
       "developerName": "DPixel / Manpreet Singh @thisismanpreets",
       "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x.\nLast updated: 02-25-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.quvideo.VISO.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.quvideo.VISO.png"
     },
     {
       "name": "WhiteNoisePro",
@@ -1852,10 +1852,10 @@
       "version": "2.0",
       "versionDate": "2024-02-25",
       "size": 81243167,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-25-2024/WhiteNoisePro-2.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-25-2024/WhiteNoisePro-2.0.ipa",
       "developerName": "iApps",
       "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 02-25-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.laoyue.whitenoise.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.laoyue.whitenoise.png"
     },
     {
       "name": "EnhanceFoxPro",
@@ -1864,10 +1864,10 @@
       "version": "7.1.0",
       "versionDate": "2024-02-23",
       "size": 189385446,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-23-2024/EnhanceFoxPro-7.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-23-2024/EnhanceFoxPro-7.1.0.ipa",
       "developerName": "Qamislo - Apps",
       "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.risingcabbage.enhancefox.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.risingcabbage.enhancefox.png"
     },
     {
       "name": "TrollStarTE",
@@ -1876,10 +1876,10 @@
       "version": "3.0",
       "versionDate": "2024-01-25",
       "size": 989843,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-25-2024/TrollStarTE-3.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-25-2024/TrollStarTE-3.0.ipa",
       "developerName": "thuthuatjb",
       "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-25-2024\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.thuthuatjb.trollforcete.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.thuthuatjb.trollforcete.png"
     },
     {
       "name": "WallcraftPro",
@@ -1888,10 +1888,10 @@
       "version": "3.12",
       "versionDate": "2024-01-25",
       "size": 92047124,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-25-2024/WallcraftPro-3.12.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-25-2024/WallcraftPro-3.12.ipa",
       "developerName": "DPixel",
       "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.wallpaperscraft.wallpapers.png"
     },
     {
       "name": "EhPanda",
@@ -1900,10 +1900,10 @@
       "version": "2.7.4",
       "versionDate": "2024-01-23",
       "size": 6685295,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-23-2024/EhPanda-2.7.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-23-2024/EhPanda-2.7.4.ipa",
       "developerName": "EhPanda-Team",
       "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/zeng.EhPanda.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/zeng.EhPanda.png"
     },
     {
       "name": "Shadowrocket",
@@ -1912,10 +1912,10 @@
       "version": "2.2.41",
       "versionDate": "2023-12-19",
       "size": 34343960,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-19-2023/Shadowrocket-2.2.41.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-19-2023/Shadowrocket-2.2.41.ipa",
       "developerName": "Qamislo - Apps",
       "localizedDescription": "This link allow to use or potentially unlock the premium functions of many applications. Use only if you're well-versed with the process.\nLast updated: 12-19-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.liguangming.Shadowrocket.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.liguangming.Shadowrocket.png"
     },
     {
       "name": "VPNPremium",
@@ -1924,10 +1924,10 @@
       "version": "3.17",
       "versionDate": "2023-12-19",
       "size": 53032655,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-19-2023/VPNPremium-3.17.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-19-2023/VPNPremium-3.17.ipa",
       "developerName": "HertzSign iPA Library",
       "localizedDescription": "Note: Premium tweak will not work after a restart. However, you can regain its functionality by re-installing it, so it's partially working..\nLast updated: 12-19-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/vpn.vpn.proxy.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/vpn.vpn.proxy.png"
     },
     {
       "name": "CallAssist",
@@ -1936,10 +1936,10 @@
       "version": "14.15",
       "versionDate": "2023-12-15",
       "size": 3424925,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-15-2023/CallAssist-14.15.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-15-2023/CallAssist-14.15.ipa",
       "developerName": "xybp888",
       "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the version that match your iOS otherwise it will crash.\nLast updated: 12-26-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.apple.mobilephone-call.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.apple.mobilephone-call.png"
     },
     {
       "name": "Cardio",
@@ -1948,10 +1948,10 @@
       "version": "1.1",
       "versionDate": "2023-12-12",
       "size": 122212,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/Cardio-1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/Cardio-1.1.ipa",
       "developerName": "cisc0disco",
       "localizedDescription": "An application that utilizes the CoreTrust bug to modify Apple Pay images.\nLast updated: 12-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.cisc0freak.cardio.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.cisc0freak.cardio.png"
     },
     {
       "name": "CocoaTop",
@@ -1960,10 +1960,10 @@
       "version": "1.0",
       "versionDate": "2023-12-12",
       "size": 333223,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/CocoaTop-1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/CocoaTop-1.0.ipa",
       "developerName": "D0m0 / imbazim",
       "localizedDescription": "Interface for viewing processes on iOS\nLast updated: 12-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/ru.domo.cocoatop64.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ru.domo.cocoatop64.png"
     },
     {
       "name": "QuantumultX",
@@ -1972,10 +1972,10 @@
       "version": "1.4.2",
       "versionDate": "2023-12-12",
       "size": 16180965,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/QuantumultX-1.4.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/QuantumultX-1.4.2.ipa",
       "developerName": "iOS Tutorials + App Cracks",
       "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.crossutility.quantumult-x.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.crossutility.quantumult-x.png"
     },
     {
       "name": "SCMusicPlus",
@@ -1984,10 +1984,10 @@
       "version": "6.22.0-2.2.1",
       "versionDate": "2023-12-12",
       "size": 61258341,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/SCMusicPlus-6.22.0-2.2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/SCMusicPlus-6.22.0-2.2.1.ipa",
       "developerName": "Rov3r",
       "localizedDescription": "Improve your SoundCloud experience by eliminating advertisements, getting rid of promoted playlists, and removing upsell buttons. Installation: Download the standard SoundCloud app from the app store and sign in, then delete the app while still logged in, and use this IPA. Once installed, you can start enjoying it as you should already be logged in.\nLast updated: 12-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.soundcloud.TouchApp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.soundcloud.TouchApp.png"
     },
     {
       "name": "SpotifyDeluxe",
@@ -1996,10 +1996,10 @@
       "version": "8.8.96",
       "versionDate": "2023-12-12",
       "size": 69184085,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/SpotifyDeluxe-8.8.96.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/SpotifyDeluxe-8.8.96.ipa",
       "developerName": "AppDB / CyPwn IPA Library",
       "localizedDescription": "Spotify with many extra features injected, Spotilife being one of them\nLast updated: 12-12-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.spotify.client.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.spotify.client.png"
     },
     {
       "name": "TrollDecrypt",
@@ -2008,10 +2008,10 @@
       "version": "1.1",
       "versionDate": "2023-12-26",
       "size": 691519,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/TrollDecrypt-1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/TrollDecrypt-1.1.ipa",
       "developerName": "donato-fiore",
       "localizedDescription": "Can decrypt any IPA swiftly without initially launching the app, and there's no need to navigate through Filza to locate the decrypted file due to an included history feature!\nLast updated: 12-12-2023\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.fiore.trolldecrypt.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.fiore.trolldecrypt.png"
     },
     {
       "name": "WiFiList",
@@ -2020,10 +2020,10 @@
       "version": "1.0",
       "versionDate": "2023-12-12",
       "size": 921268,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-12-2023/WiFiList-1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-12-2023/WiFiList-1.0.ipa",
       "developerName": "Mikasa-san",
       "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks.\nLast updated: 12-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.itaysoft.wifilist.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.itaysoft.wifilist.png"
     },
     {
       "name": "TrollApps",
@@ -2032,10 +2032,10 @@
       "version": "2.1",
       "versionDate": "2023-12-10",
       "size": 2127280,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-10-2023/TrollApps-2.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-10-2023/TrollApps-2.1.ipa",
       "developerName": "TrollApps",
       "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (above). It enables users to directly download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: \u2705 \ud83d\udc4d",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/org.resonance.store.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/org.resonance.store.png"
     },
     {
       "name": "AppsManager",
@@ -2044,10 +2044,10 @@
       "version": "1.8.4",
       "versionDate": "2023-12-01",
       "size": 3073412,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-01-2023/AppsManager-1.8.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-01-2023/AppsManager-1.8.4.ipa",
       "developerName": "TigiSoftware / CyPwn IPA Library",
       "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak\nLast updated: 12-01-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.tigisoftware.ADManager.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tigisoftware.ADManager.png"
     },
     {
       "name": "SecondHand",
@@ -2056,10 +2056,10 @@
       "version": "1.3",
       "versionDate": "2023-12-25",
       "size": 2786051,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-28-2023/SecondHand-1.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-28-2023/SecondHand-1.3.ipa",
       "developerName": "leminlimez",
       "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.leemin.SecondHand.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.leemin.SecondHand.png"
     },
     {
       "name": "Antoine",
@@ -2068,10 +2068,10 @@
       "version": "1.3",
       "versionDate": "2023-12-25",
       "size": 1623275,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/09-19-2023/Antoine-1.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/09-19-2023/Antoine-1.3.ipa",
       "developerName": "SerenaKit",
       "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.serena.Antoine.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.serena.Antoine.png"
     },
     {
       "name": "DirtyCowApp",
@@ -2080,10 +2080,10 @@
       "version": "1.1.1",
       "versionDate": "2023-08-12",
       "size": 1286450,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/08-12-2023/DirtyCowApp-1.1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/08-12-2023/DirtyCowApp-1.1.1.ipa",
       "developerName": "mineek / AppDB",
       "localizedDescription": "An all-in-one app for tweaks for iOS 15-16.1.2\nLast updated: 08-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.mineek.dirtycow.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.mineek.dirtycow.png"
     },
     {
       "name": "LokLok",
@@ -2092,10 +2092,10 @@
       "version": "5.0",
       "versionDate": "2023-07-18",
       "size": 22035388,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/07-17-2023/LokLok-5.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/07-17-2023/LokLok-5.0.ipa",
       "developerName": "N/A",
       "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: \u26a0\ufe0f \u2754",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.xoumb.mp3.video.player.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.xoumb.mp3.video.player.png"
     },
     {
       "name": "SharkForMessenger",
@@ -2104,10 +2104,10 @@
       "version": "411.0",
       "versionDate": "2023-06-25",
       "size": 57632555,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/06-24-2023/SharkForMessenger-411.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/06-24-2023/SharkForMessenger-411.0.ipa",
       "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
       "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.facebook.Messenger.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Messenger.png"
     },
     {
       "name": "FacebookMiX",
@@ -2116,10 +2116,10 @@
       "version": "414.0",
       "versionDate": "2023-05-15",
       "size": 156849761,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-15-2023/FacebookMiX-414.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-15-2023/FacebookMiX-414.0.ipa",
       "developerName": "IPA Fire",
       "localizedDescription": "injected with both Wolf and TxC\nLast updated: 05-15-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.facebook.Facebook.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Facebook.png"
     },
     {
       "name": "InstagramElite",
@@ -2128,10 +2128,10 @@
       "version": "281.0",
       "versionDate": "2023-05-10",
       "size": 153271303,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-10-2023/InstagramElite-281.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-10-2023/InstagramElite-281.0.ipa",
       "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
       "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "TwitchToolbox",
@@ -2140,10 +2140,10 @@
       "version": "15.1",
       "versionDate": "2023-05-04",
       "size": 63685099,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/05-04-2023/TwitchToolbox-15.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-04-2023/TwitchToolbox-15.1.ipa",
       "developerName": "AppDB / DPixel",
       "localizedDescription": "Twitch, with added features including theme support, auto claiming channel points, adblock, and third party emote support\nLast updated: 06-04-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/tv.twitch.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/tv.twitch.png"
     },
     {
       "name": "DoorDash",
@@ -2152,10 +2152,10 @@
       "version": "4.112.2",
       "versionDate": "2023-04-13",
       "size": 92798761,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-13-2023/DoorDash-4.112.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-13-2023/DoorDash-4.112.2.ipa",
       "developerName": "N/A",
       "localizedDescription": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the loopholes we gotta put ourselves through, Apple)\nLast updated: 04-13-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/doordash.DoorDashConsumer.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/doordash.DoorDashConsumer.png"
     },
     {
       "name": "DoorDashDasher",
@@ -2164,10 +2164,10 @@
       "version": "2.263.0",
       "versionDate": "2023-04-13",
       "size": 82444706,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-13-2023/DoorDashDasher-2.263.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-13-2023/DoorDashDasher-2.263.0.ipa",
       "developerName": "N/A",
       "localizedDescription": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store\nLast updated: 04-13-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.doordash.dasher.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.doordash.dasher.png"
     },
     {
       "name": "AppIndex",
@@ -2176,10 +2176,10 @@
       "version": "1.0",
       "versionDate": "2023-12-25",
       "size": 871661,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-04-2023/AppIndex-1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-04-2023/AppIndex-1.0.ipa",
       "developerName": "SerenaKit",
       "localizedDescription": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, including entitlements, entitlements, bundleID, etc. Also allows creating backups and exporting apps as .ipa files, good if you're trying to share apps with others\nLast updated: 04-04-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.serena.AppIndex.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.serena.AppIndex.png"
     },
     {
       "name": "InstagramDark",
@@ -2188,10 +2188,10 @@
       "version": "276.1",
       "versionDate": "2023-04-02",
       "size": 101600290,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/04-02-2023/InstagramDark-276.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-02-2023/InstagramDark-276.1.ipa",
       "developerName": "CydiaAbdullah",
       "localizedDescription": "Kinda like TikTokDark, but for Instagram. Features include media saving, profile picture saving, follow status, anonymous story viewing, etc. I mean, IG Rocket IPAs are very easy to find, but this one has a slightly better UI if you ask me\nLast updated: 04-23-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.burbn.instagram.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
       "name": "BeRealUnblur",
@@ -2200,10 +2200,10 @@
       "version": "0.36.0",
       "versionDate": "2023-03-30",
       "size": 25189113,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-29-2023/BeRealUnblur-0.36.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-29-2023/BeRealUnblur-0.36.0.ipa",
       "developerName": "u/LOST_iPhone_btw / iPAWiND",
       "localizedDescription": "BeReal, injected with the tweak BeRealUnblur\nLast updated: 03-29-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/AlexisBarreyat.BeReal.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
       "name": "Tailor",
@@ -2212,10 +2212,10 @@
       "version": "2.1.1",
       "versionDate": "2023-03-27",
       "size": 16438394,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2023/Tailor-2.1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2023/Tailor-2.1.1.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Full app description here. App that stitches long screenshots together, cracked for premium features. Just click buy and everything automatically activates\nLast updated: 03-27-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.foundry63.tailor.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.foundry63.tailor.png"
     },
     {
       "name": "WDBFontOverwrite",
@@ -2224,10 +2224,10 @@
       "version": "1.10.8",
       "versionDate": "2023-03-28",
       "size": 5348316,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/03-27-2023/WDBFontOverwrite-1.10.8.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/03-27-2023/WDBFontOverwrite-1.10.8.ipa",
       "developerName": "zhouwei / ginsudev",
       "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk\nLast updated: 03-27-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.ginsu.WDBFontOverwrite.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.ginsu.WDBFontOverwrite.png"
     },
     {
       "name": "CineMate",
@@ -2236,10 +2236,10 @@
       "version": "1.1",
       "versionDate": "2023-02-25",
       "size": 10848574,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-24-2023/CineMate-1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-24-2023/CineMate-1.1.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Yet another remake of HDO Play, with ads removed. Full app description here\nLast updated: 02-24-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.cinemtt.apt.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.cinemtt.apt.png"
     },
     {
       "name": "LikeeLRD",
@@ -2248,10 +2248,10 @@
       "version": "1.4-3.85.3",
       "versionDate": "2023-02-09",
       "size": 82647067,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-09-2023/LikeeLRD-1.4-3.85.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-09-2023/LikeeLRD-1.4-3.85.3.ipa",
       "developerName": "AppDB",
       "localizedDescription": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/video.like.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/video.like.png"
     },
     {
       "name": "StatusMagic",
@@ -2260,10 +2260,10 @@
       "version": "1.0.2",
       "versionDate": "2023-02-08",
       "size": 1218528,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
       "developerName": "Avangelista",
       "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots\nLast updated: 02-08-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.avangelista.StatusMagic.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.avangelista.StatusMagic.png"
     },
     {
       "name": "FacebookTxC",
@@ -2272,10 +2272,10 @@
       "version": "400.0",
       "versionDate": "2023-02-06",
       "size": 139483663,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/02-06-2023/FacebookTxC-400.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/02-06-2023/FacebookTxC-400.0.ipa",
       "developerName": "IPA Fire",
       "localizedDescription": "This modded version has the following features: disable ads, save profile pictures, save stories, save videos, and anonymous story viewing. *You may have to sign into the app again, even if you install with TrollStore over an existing signed-in.\nLast updated: 02-06-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.facebook.Facebook.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Facebook.png"
     },
     {
       "name": "CarTube",
@@ -2284,10 +2284,10 @@
       "version": "1.3",
       "versionDate": "2023-01-23",
       "size": 574441,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-23-2023/CarTube-1.3.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-23-2023/CarTube-1.3.ipa",
       "developerName": "Avangelista",
       "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.avangelista.CarTube.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.avangelista.CarTube.png"
     },
     {
       "name": "FileSwitcherX",
@@ -2296,10 +2296,10 @@
       "version": "1.7",
       "versionDate": "2023-01-22",
       "size": 2476981,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-21-2023/FileSwitcherX-1.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-21-2023/FileSwitcherX-1.7.ipa",
       "developerName": "straight-tamago",
       "localizedDescription": "Collection of MacDirtyCow tweaks. See app description on AppDB\nLast updated: 01-21-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.straight-tamago.FileSwitcherX.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.straight-tamago.FileSwitcherX.png"
     },
     {
       "name": "DramaFlix",
@@ -2308,10 +2308,10 @@
       "version": "1.1.0",
       "versionDate": "2023-01-03",
       "size": 9164315,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-03-2023/DramaFlix-1.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-03-2023/DramaFlix-1.1.0.ipa",
       "developerName": "N/A",
       "localizedDescription": "Movie app, same as HDO Play but also slightly updated\nLast updated: 01-03-2023\nStatus: \u26a0\ufe0f \u2754",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.dramaflix.co.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.dramaflix.co.png"
     },
     {
       "name": "FindUnfollow",
@@ -2320,10 +2320,10 @@
       "version": "4.2.2",
       "versionDate": "2023-01-04",
       "size": 9517006,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-03-2023/FindUnfollow-4.2.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-03-2023/FindUnfollow-4.2.2.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Twitter followers manager. Know who unfollowed/blocked, track new followers, and a few other stats\nLast updated: 01-03-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/co.iinvent.whounfollowed.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.iinvent.whounfollowed.png"
     },
     {
       "name": "TrollMods",
@@ -2332,10 +2332,10 @@
       "version": "0.4",
       "versionDate": "2023-01-03",
       "size": 4626929,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/01-03-2023/TrollMods-0.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/01-03-2023/TrollMods-0.4.ipa",
       "developerName": "aethercot",
       "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot\nLast updated: 01-03-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/io.hex36.TrollMods.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/io.hex36.TrollMods.png"
     },
     {
       "name": "DPixelGPT",
@@ -2344,10 +2344,10 @@
       "version": "1.0",
       "versionDate": "2022-12-29",
       "size": 1170406,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-29-2022/DPixelGPT-1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-29-2022/DPixelGPT-1.0.ipa",
       "developerName": "DPixel",
       "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a limited number of questions per hour, so using one account between multiple people will just be an inconvenience\nLast updated: 12-29-2022\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.dpixel.chatgpt.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.dpixel.chatgpt.png"
     },
     {
       "name": "TikWipe",
@@ -2356,10 +2356,10 @@
       "version": "1.1.0",
       "versionDate": "2022-12-29",
       "size": 7987560,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-29-2022/TikWipe-1.1.0.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-29-2022/TikWipe-1.1.0.ipa",
       "developerName": "DPixel",
       "localizedDescription": "Injected with Satella. TikTok video downloader (not photos). Click purchase at the end of the slideshow\nLast updated: 12-29-2022\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.tikwipe.tikwipe.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tikwipe.tikwipe.png"
     },
     {
       "name": "TrollMods",
@@ -2368,10 +2368,10 @@
       "version": "0.1.1b",
       "versionDate": "2022-12-30",
       "size": 3126003,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-29-2022/TrollMods-0.1.1b.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-29-2022/TrollMods-0.1.1b.ipa",
       "developerName": "aethercot",
       "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot\nLast updated: 01-03-2023\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/io.hex36.TrollMods.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/io.hex36.TrollMods.png"
     },
     {
       "name": "TrollLockReborn",
@@ -2380,10 +2380,10 @@
       "version": "0.2",
       "versionDate": "2022-12-25",
       "size": 1006984,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-25-2022/TrollLockReborn-0.2.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-25-2022/TrollLockReborn-0.2.ipa",
       "developerName": "haxi0",
       "localizedDescription": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub\nLast updated: 12-25-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/org.haxi0.TrollLock.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/org.haxi0.TrollLock.png"
     },
     {
       "name": "ReFacePro",
@@ -2392,10 +2392,10 @@
       "version": "3.5.1",
       "versionDate": "2022-12-14",
       "size": 43232654,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-14-2022/ReFacePro-3.5.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-14-2022/ReFacePro-3.5.1.ipa",
       "developerName": "iPAWiND",
       "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: \u26a0\ufe0f",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.neocortext.doublicatapp.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.neocortext.doublicatapp.png"
     },
     {
       "name": "AsTools",
@@ -2404,10 +2404,10 @@
       "version": "2.1.7",
       "versionDate": "2022-12-11",
       "size": 14918039,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-11-2022/AsTools-2.1.7.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-11-2022/AsTools-2.1.7.ipa",
       "developerName": "N/A",
       "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), as if they were from the App Store. No certificates, no Apple ID, none of that. It just installs, and it works\nLast updated: 12-11-2022\nStatus: \u274c",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/rn.notes.best.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/rn.notes.best.png"
     },
     {
       "name": "Pandolife",
@@ -2416,10 +2416,10 @@
       "version": "1.1a-2211.1",
       "versionDate": "2022-12-04",
       "size": 84148077,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/12-04-2022/Pandolife-1.1a-2211.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/12-04-2022/Pandolife-1.1a-2211.1.ipa",
       "developerName": "AppDB",
       "localizedDescription": "Pandora, injected with Pandolife\nLast updated: 12-04-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.pandora.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.pandora.png"
     },
     {
       "name": "TrollNonce",
@@ -2428,10 +2428,10 @@
       "version": "1.1.1",
       "versionDate": "2023-12-26",
       "size": 253564,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-12-2022/TrollNonce-1.1.1.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-12-2022/TrollNonce-1.1.1.ipa",
       "developerName": "opa334",
       "localizedDescription": "Nonce setter for jailed devices\nLast updated: 11-12-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.opa334.trollnonce.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.opa334.trollnonce.png"
     },
     {
       "name": "DebToIPA",
@@ -2440,10 +2440,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 3537264,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/DebToIPA.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/DebToIPA.ipa",
       "developerName": "sourcelocation / AppDB",
       "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/net.sourceloc.deb-to-ipa-app.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/net.sourceloc.deb-to-ipa-app.png"
     },
     {
       "name": "IPSW",
@@ -2452,10 +2452,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 5580043,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/IPSW.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/IPSW.ipa",
       "developerName": "N/A",
       "localizedDescription": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI\nLast updated: 10-17-2022\nStatus: \u26a0\ufe0f \u2754",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.hyperixa.IPSW.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hyperixa.IPSW.png"
     },
     {
       "name": "MobileTSS",
@@ -2464,10 +2464,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 828575,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/MobileTSS.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/MobileTSS.ipa",
       "developerName": "CyPwn IPA Library / lucaIz-ldx",
       "localizedDescription": "Shsh blobs saver. May not work on iOS 15+\nLast updated: 10-17-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/luca.MobileTSS.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/luca.MobileTSS.png"
     },
     {
       "name": "ResolutionSetter",
@@ -2476,10 +2476,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 316945,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/ResolutionSetter.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/ResolutionSetter.ipa",
       "developerName": "haoict",
       "localizedDescription": "Custom resolution setter for jailed devices\nLast updated: 10-17-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.haoict.ResolutionSetterSwift.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.haoict.ResolutionSetterSwift.png"
     },
     {
       "name": "TrollSign",
@@ -2488,10 +2488,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 2485747,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/TrollSign.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/TrollSign.ipa",
       "developerName": "CyPwn IPA Library",
       "localizedDescription": "Modify an app's entitlements before installing\nLast updated: 11-09-2022\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.AppInstalleriOS.TrollSign.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.AppInstalleriOS.TrollSign.png"
     },
     {
       "name": "UberEats",
@@ -2500,10 +2500,10 @@
       "version": "1.0",
       "versionDate": "2022-11-10",
       "size": 86639490,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/11-09-2022/UberEats.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/11-09-2022/UberEats.ipa",
       "developerName": "Uber",
       "localizedDescription": "Uber Eats for iOS 14.x.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.ubercab.UberEats.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.ubercab.UberEats.png"
     },
     {
       "name": "uYouPlus",
@@ -2512,10 +2512,10 @@
       "version": "19.42",
       "versionDate": "2022-11-10",
       "size": 115017943,
-      "downloadURL": "https://github.com/usearcticsigner/Repo/releases/download/Ipa/uYouPlus_19.42.1-3.0.4.ipa",
+      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/Ipa/uYouPlus_19.42.1-3.0.4.ipa",
       "developerName": "qnblackcat",
       "localizedDescription": "Youtube injected with uYouPlus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.google.ios.youtube.png"
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.google.ios.youtube.png"
     },
     {
       "name": "ModMyIPA",
@@ -2527,8 +2527,9 @@
       "size": 300000,
       "developerName": "powenn",
       "localizedDescription": "The easiest way to mod ipas.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Repo/main/icons/com.powen.ModMyIPA."
+      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.powen.ModMyIPA."
     }
   ]
 }
+    
     
