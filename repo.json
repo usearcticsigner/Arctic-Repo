@@ -1017,30 +1017,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.spotify.client.png"
     },
     {
-      "name": "TransitRoyale",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "com.samvermette.Transit",
-      "version": "5.15.16",
-      "versionDate": "2024-04-20",
-      "size": 70962869,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-20-2024/TransitRoyale-5.15.16.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.samvermette.Transit.png"
-    },
-    {
-      "name": "AlarmyPremium",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "droom.sleepIfUCanFree",
-      "version": "24.21.1",
-      "versionDate": "2024-04-19",
-      "size": 161819886,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-19-2024/AlarmyPremium-24.21.1.ipa",
-      "developerName": "DPixel",
-      "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/droom.sleepIfUCanFree.png"
-    },
-    {
       "name": "AppLockPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.lilucat.applock.us",
@@ -1065,18 +1041,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.gamelounge.loopsie.ios.png"
     },
     {
-      "name": "FitnessAIPremium",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "com.jakemor.firness-ai",
-      "version": "8.12.12",
-      "versionDate": "2024-04-18",
-      "size": 77576260,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/FitnessAIPremium-8.12.12.ipa",
-      "developerName": "L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
-      "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.jakemor.firness-ai.png"
-    },
-    {
       "name": "InstoriesPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "ylee.studio.instories",
@@ -1087,18 +1051,6 @@
       "developerName": "IAppsBestLibrary",
       "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ylee.studio.instories.png"
-    },
-    {
-      "name": "LocketWidgetGold",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "com.locket.Locket",
-      "version": "1.71.0",
-      "versionDate": "2024-04-18",
-      "size": 98143607,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/04-18-2024/LocketWidgetGold-1.71.0.ipa",
-      "developerName": "ipalibrary.me",
-      "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 05-07-2024\nStatus: \u2705 \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.locket.Locket.png"
     },
     {
       "name": "MoisesPremium",
