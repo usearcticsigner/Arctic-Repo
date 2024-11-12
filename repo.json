@@ -295,6 +295,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.atebits.Tweetie2.png"
     },
     {
+      "beta": false,
       "name": "iTorrent",
       "subtitle": "The best iOS Torrent Player.",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
@@ -307,6 +308,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
+      "beta": false,
       "name": "nPlayerPlus",
       "subtitle": "A good player.",
       "bundleIdentifier": "com.newin.nplayer",
@@ -319,6 +321,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.newin.nplayer.png"
     },
     {
+      "beta": false,
       "name": "Apollo",
       "subtitle": "Clients for Reddit.",
       "bundleIdentifier": "com.christianselig.Apollo",
@@ -331,6 +334,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.christianselig.Apollo.png"
     },
     {
+      "beta": false,
       "name": "Misaka",
       "subtitle": "An amazing kfd/mdc tweaker.",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
@@ -343,6 +347,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.straight-tamago.misakaRS.png"
     },
     {
+      "beta": false,
       "name": "Streamer",
       "subtitle": "Streaming is no problem with Streamer.",
       "bundleIdentifier": "com.streamer.ios",
@@ -355,6 +360,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.streamer.ios.png"
     },
     {
+      "beta": false,
       "name": "Jitterbug",
       "subtitle": "Connecting to other devices is no problem.",
       "bundleIdentifier": "com.osy86.Jitterbug",
@@ -367,6 +373,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.osy86.Jitterbug.png"
     },
     {
+      "beta": false,
       "name": "TwitchPlus",
       "subtitle": "Plus with twitch is amazing.",
       "bundleIdentifier": "tv.twitch",
@@ -379,6 +386,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/tv.twitch.png"
     },
     {
+      "beta": false,
       "name": "TrollInstallerMDC",
       "subtitle": "A good way to install Trollstore.",
       "bundleIdentifier": "com.dhinakg.trollinstallermdc",
@@ -391,6 +399,7 @@
       "iconURL": "data:image/jpeg;base64,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g"
     },
     {
+      "beta": false,
       "name": "Aidoku",
       "subtitle": "A good reading app.",
       "bundleIdentifier": "xyz.skitty.Aidoku",
@@ -403,6 +412,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/xyz.skitty.Aidoku.png"
     },
     {
+      "beta": false,
       "name": "Otraku",
       "subtitle": "An unofficial AniList app.",
       "bundleIdentifier": "com.otraku.app",
@@ -415,6 +425,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.otraku.app.png"
     },
     {
+      "beta": false,
       "name": "Delta",
       "subtitle": "The best emulator.",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
@@ -427,6 +438,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.rileytestut.Delta.Beta.png"
     },
     {
+      "beta": false,
       "name": "Paperback",
       "subtitle": "A good comic/manga reader.",
       "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
@@ -438,7 +450,8 @@
       "localizedDescription": "Paperback is an ad-free comic/manga reader for Apple devices. It supports Komga and other third party extensions.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/dev.faizandurrani.moe.paperback.app.png"
     },
-        {
+    {
+      "beta": false,
       "name": "BHInstagram",
       "subtitle": "One of the best Instagram tweaks.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -451,6 +464,7 @@
       "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/com.burbn.instagram.png?raw=true"
     },
     {
+      "beta": false,
       "name": "DLTikTok",
       "subtitle": "TikTok, enhanced with features.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
@@ -463,6 +477,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "beta": false,
       "name": "InstagramLRD",
       "subtitle": "A quick and easy tweak.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -475,6 +490,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "InstagramRocket",
       "subtitle": "A good Instagram tweak.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -487,6 +503,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "TikTokDark",
       "subtitle": "A good dark mode tweak.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
@@ -499,6 +516,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "beta": false,
       "name": "TikTokLRD",
       "subtitle": "A quick tweak.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
@@ -511,6 +529,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "beta": false,
       "name": "TrollRecorder",
       "subtitle": "A good audio recorder.",
       "bundleIdentifier": "wiki.qaq.trapp",
@@ -523,6 +542,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/wiki.qaq.trapp.png"
     },
     {
+      "beta": false,
       "name": "InfusePro",
       "subtitle": "InfusePro for free.",
       "bundleIdentifier": "com.firecore.infuse",
@@ -535,6 +555,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.firecore.infuse.png"
     },
     {
+      "beta": false,
       "name": "DuolingoMax",
       "subtitle": "A good way to learn.",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
@@ -547,6 +568,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.duolingo.DuolingoMobile.png"
     },
     {
+      "beta": false,
       "name": "PicsArtPlusPlus",
       "subtitle": "PicsArt with Plus.",
       "bundleIdentifier": "com.picsart.studio",
@@ -559,6 +581,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.picsart.studio.png"
     },
     {
+      "beta": false,
       "name": "InstagramNyx",
       "subtitle": "A good tweak.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -571,6 +594,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "FacebookWolf",
       "subtitle": "A really good tweak.",
       "bundleIdentifier": "com.facebook.Facebook",
@@ -583,6 +607,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Facebook.png"
     },
     {
+      "beta": false,
       "name": "ibisPaintPrime",
       "subtitle": "A good way to draw.",
       "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
@@ -595,6 +620,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/jp.ne.ibis.ibisPaintX.png"
     },
     {
+      "beta": false,
       "name": "MusixmatchPremium",
       "subtitle": "All song lyrics.",
       "bundleIdentifier": "com.musixmatch.lyrics",
@@ -607,6 +633,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.musixmatch.lyrics.png"
     },
     {
+      "beta": false,
       "name": "MeituPlusPlus",
       "subtitle": "???",
       "bundleIdentifier": "com.meitu.mtxx",
@@ -619,6 +646,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.meitu.mtxx.png"
     },
     {
+      "beta": false,
       "name": "YukaPremium",
       "subtitle": "Barcode scanner.",
       "bundleIdentifier": "yuca.scanner",
@@ -631,6 +659,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/yuca.scanner.png"
     },
     {
+      "beta": false,
       "name": "LocketWidgetGold",
       "subtitle": "Widgets.",
       "bundleIdentifier": "com.locket.Locket",
@@ -643,6 +672,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.locket.Locket.png"
     },
     {
+      "beta": false,
       "name": "MacroFactorPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.sbs.diet",
@@ -655,6 +685,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sbs.diet.png"
     },
     {
+      "beta": false,
       "name": "MyFitnessPalPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.myfitnesspal.mfp",
@@ -667,6 +698,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.myfitnesspal.mfp.png"
     },
     {
+      "beta": false,
       "name": "ObjectRemoval",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.skysoft.removalfree",
@@ -679,6 +711,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.skysoft.removalfree.png"
     },
     {
+      "beta": false,
       "name": "AlarmyPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "droom.sleepIfUCanFree",
@@ -691,6 +724,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/droom.sleepIfUCanFree.png"
     },
     {
+      "beta": false,
       "name": "BoostcampPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.bpmhealth.boostfitness",
@@ -703,6 +737,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bpmhealth.boostfitness.png"
     },
     {
+      "beta": false,
       "name": "StravaPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.strava.stravaride",
@@ -715,6 +750,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.strava.stravaride.png"
     },
     {
+      "beta": false,
       "name": "OniriPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.sublime.capture",
