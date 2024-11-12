@@ -1439,6 +1439,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.antique.Folium.png"
     },
     {
+      "beta": false,
       "name": "Opener",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.tijo.opener.Opener",
@@ -1451,6 +1452,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tijo.opener.Opener.png"
     },
     {
+      "beta": false,
       "name": "PixelWeather",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.woo-interactive.PixelWeather",
@@ -1463,6 +1465,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.woo-interactive.PixelWeather.png"
     },
     {
+      "beta": false,
       "name": "ScannerProPlus",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.readdle.Scanner",
