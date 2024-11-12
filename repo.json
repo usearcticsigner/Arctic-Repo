@@ -763,6 +763,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sublime.capture.png"
     },
     {
+      "beta": false,
       "name": "RadarbotPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
@@ -775,6 +776,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
     },
     {
+      "beta": false,
       "name": "VSCOPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "co.visualsupply.cam",
@@ -787,6 +789,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.visualsupply.cam.png"
     },
     {
+      "beta": false,
       "name": "WaterMinderPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
@@ -799,6 +802,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.waterminder.waterminder.watchkitapp.png"
     },
     {
+      "beta": false,
       "name": "KetchupPlus",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.benricemccarthy.ketchup",
@@ -811,6 +815,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.benricemccarthy.ketchup.png"
     },
     {
+      "beta": false,
       "name": "ChargeLimiter",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "chaoge.ChargeLimiter",
@@ -823,6 +828,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/chaoge.ChargeLimiter.png"
     },
     {
+      "beta": false,
       "name": "Downie",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.charliemonroe.Downie",
@@ -835,6 +841,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.charliemonroe.Downie.png"
     },
     {
+      "beta": false,
       "name": "EarthquakePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "org.tranquilli.Earthquake",
@@ -847,6 +854,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/org.tranquilli.Earthquake.png"
     },
     {
+      "beta": false,
       "name": "Opener",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.tijo.opener.Opener",
@@ -859,6 +867,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tijo.opener.Opener.png"
     },
     {
+      "beta": false,
       "name": "WeatherSuper",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.andyworks.weather",
@@ -871,6 +880,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.andyworks.weather.png"
     },
     {
+      "beta": false,
       "name": "FastingPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.leapfitness.fasting",
@@ -883,6 +893,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.leapfitness.fasting.png"
     },
     {
+      "beta": false,
       "name": "MyDiaryPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.simpleinnovation.diary",
@@ -895,6 +906,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.simpleinnovation.diary.png"
     },
     {
+      "beta": false,
       "name": "VidsAIPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "viral.vision.vids",
@@ -907,6 +919,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/viral.vision.vids.png"
     },
     {
+      "beta": false,
       "name": "MatterPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.Matter.MatterApp",
@@ -919,6 +932,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.Matter.MatterApp.png"
     },
     {
+      "beta": false,
       "name": "PixelPalsPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.christian.PixelPals",
@@ -931,6 +945,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.christian.PixelPals.png"
     },
     {
+      "beta": false,
       "name": "onesecpro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "wtf.riedel.one-sec",
@@ -943,6 +958,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/wtf.riedel.one-sec.png"
     },
     {
+      "beta": false,
       "name": "DocumentsPlus",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
@@ -955,6 +971,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
     },
     {
+      "beta": false,
       "name": "FitbodElite",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.fitbod",
@@ -967,6 +984,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.fitbod.png"
     },
     {
+      "beta": false,
       "name": "InShotPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.camerasideas.InstaShot",
@@ -979,6 +997,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.camerasideas.InstaShot.png"
     },
     {
+      "beta": false,
       "name": "SafeLockPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.appslab.safelock",
@@ -991,6 +1010,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.appslab.safelock.png"
     },
     {
+      "beta": false,
       "name": "PicsewPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
@@ -1003,6 +1023,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sugarmo.ScrollClip.png"
     },
     {
+      "beta": false,
       "name": "PicStitchPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.bigblueclip.picstitch",
@@ -1015,6 +1036,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bigblueclip.picstitch.png"
     },
     {
+      "beta": false,
       "name": "StitchPicsPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.xcvzaq.imagejoin",
@@ -1027,6 +1049,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.xcvzaq.imagejoin.png"
     },
     {
+      "beta": false,
       "name": "Things3",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
@@ -1039,6 +1062,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.culturedcode.ThingsiPhone.WatchApp.png"
     },
     {
+      "beta": false,
       "name": "MacroFactorPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.sbs.diet",
@@ -1051,6 +1075,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.sbs.diet.png"
     },
     {
+      "beta": false,
       "name": "ElectricalCalculationsPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
@@ -1063,6 +1088,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/it.Ettore.Electrical-Calculations-FREE.png"
     },
     {
+      "beta": false,
       "name": "Spotilife",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.spotify.client",
@@ -1075,6 +1101,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.spotify.client.png"
     },
     {
+      "beta": false,
       "name": "AppLockPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.lilucat.applock.us",
@@ -1087,6 +1114,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.lilucat.applock.us.png"
     },
     {
+      "beta": false,
       "name": "LoopsiePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.gamelounge.loopsie.ios",
@@ -1099,6 +1127,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.gamelounge.loopsie.ios.png"
     },
     {
+      "beta": false,
       "name": "InstoriesPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "ylee.studio.instories",
@@ -1111,6 +1140,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ylee.studio.instories.png"
     },
     {
+      "beta": false,
       "name": "MoisesPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "ai.moises",
@@ -1123,6 +1153,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ai.moises.png"
     },
     {
+      "beta": false,
       "name": "MuslimProPlus",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.bitsmedia.muslimpro",
@@ -1135,6 +1166,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.bitsmedia.muslimpro.png"
     },
     {
+      "beta": false,
       "name": "NGLPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "fun.ask",
@@ -1147,6 +1179,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/fun.ask.png"
     },
     {
+      "beta": false,
       "name": "InstaNyxBH",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -1159,6 +1192,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "InstaRocketCracked",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -1171,6 +1205,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "DarkNoisePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.charliemchapman.dark-noise",
@@ -1183,6 +1218,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.charliemchapman.dark-noise.png"
     },
     {
+      "beta": false,
       "name": "AdGuardPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.adguard.AdguardPro",
@@ -1195,6 +1231,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adguard.AdguardPro.png"
     },
     {
+      "beta": false,
       "name": "FlightTrackerPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.iaftt.flightplusfree",
@@ -1207,6 +1244,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iaftt.flightplusfree.png"
     },
     {
+      "beta": false,
       "name": "PolishPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.photoeditor.polish",
@@ -1219,6 +1257,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.photoeditor.polish.png"
     },
     {
+      "beta": false,
       "name": "Rosiecord",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.hammerandchisel.discord",
@@ -1231,6 +1270,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hammerandchisel.discord.png"
     },
     {
+      "beta": false,
       "name": "TarteelPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.iqraapp.Iqra",
@@ -1243,6 +1283,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.iqraapp.Iqra.png"
     },
     {
+      "beta": false,
       "name": "OutsidePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "so.outside.app",
@@ -1255,6 +1296,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/so.outside.app.png"
     },
     {
+      "beta": false,
       "name": "TikTokDark",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
@@ -1267,6 +1309,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "beta": false,
       "name": "TikTokLRD",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
@@ -1279,6 +1322,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
+      "beta": false,
       "name": "CodeRunnerPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.markodevcic.code-runner",
@@ -1291,6 +1335,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.markodevcic.code-runner.png"
     },
     {
+      "beta": false,
       "name": "LightroomPremium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.adobe.lrmobilephone",
@@ -1303,6 +1348,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adobe.lrmobilephone.png"
     },
     {
+      "beta": false,
       "name": "OpalPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.withopal.opal",
@@ -1315,6 +1361,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.withopal.opal.png"
     },
     {
+      "beta": false,
       "name": "PhotoshopExpress",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.adobe.PSMobile",
@@ -1327,6 +1374,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.adobe.PSMobile.png"
     },
     {
+      "beta": false,
       "name": "Ignited",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.litritt.ignited",
@@ -1339,6 +1387,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.litritt.ignited.png"
     },
     {
+      "beta": false,
       "name": "ImpulsePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "gen.tech.impulse",
@@ -1351,6 +1400,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/gen.tech.impulse.png"
     },
     {
+      "beta": false,
       "name": "NightSkyPlus",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.icandiapps.nightsky",
@@ -1363,6 +1413,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.icandiapps.nightsky.png"
     },
     {
+      "beta": false,
       "name": "EnhanceFoxPro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.risingcabbage.enhancefox",
@@ -1375,6 +1426,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.risingcabbage.enhancefox.png"
     },
     {
+      "beta": false,
       "name": "Folium",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.antique.Folium",
