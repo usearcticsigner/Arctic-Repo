@@ -13,10 +13,10 @@
       "name": "Fortnite",
       "subtitle": "Now available outside of the EU.",
       "bundleIdentifier": "com.epicgames.FortniteGame", 
-      "version": "32.00.2",
+      "version": "32.10.1",
       "versionDate": "2024-10-22",
       "size": 253000000, 
-      "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.3/Fortnite-32.00.2.ipa", 
+      "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.5/Fortnite-32.10.1.ipa", 
       "developerName": "Epic Games", 
       "localizedDescription": "Fortnite mobile! (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing).",
       "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/fortnite.png?raw=true"
