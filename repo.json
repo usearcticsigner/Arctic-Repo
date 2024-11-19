@@ -284,14 +284,14 @@
     {
       "beta": false,
       "name": "BHX",
-      "subtitle": "Twitter is back.",
+      "subtitle": "Best X tweak.",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "version": "4.3",
       "versionDate": "2024-02-11",
       "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa",
       "size": 121000000,
       "developerName": "BandarHL",
-      "localizedDescription": "X but it has been rebranded to twitter.",
+      "localizedDescription": "Twitter/X injected with BH.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.atebits.Tweetie2.png"
     },
     {
