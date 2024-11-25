@@ -7,6 +7,13 @@
   "website": "usearcticsigner.github.io",
   "tintColor": "#03fc98",
   "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/refs/heads/main/repo.json",
+  "featuredApps": [
+    "com.google.ios.ytliteplus",
+    "com.epicgames.FortniteGame",
+    "uk.co.mediatonic.fallguys",
+    "uwu.lrdsnow.purekfdiOS"
+  ],
+  
   "apps": [
     {
       "beta": false,
