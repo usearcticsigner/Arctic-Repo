@@ -3,7 +3,7 @@
   "identifier": "arcticrepo.xyz",
   "subtitle": "My Repo, Arctic Signer's Repo.",
   "description": "Welcome to Arctic Signer's Repo, here you will find all of my recommended apps and games.",
-  "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icon.png?raw=true",
+  "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/repoicon.png?raw=true",
   "website": "usearcticsigner.github.io",
   "tintColor": "#03fc98",
   "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/refs/heads/main/repo.json",
