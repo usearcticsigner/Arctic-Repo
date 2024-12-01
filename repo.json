@@ -211,6 +211,19 @@
     },
     {
       "beta": false,
+      "name": "Youtube Plus",
+      "subtitle": "An amazing Youtube Tweak.",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "5.1",
+      "versionDate": "2024-10-02",
+      "downloadURL": "https://github.com/Mrsheep561/YTLite/releases/download/v1/YouTubePlus_5.1.ipa",
+      "size": 127400000,
+      "developerName": "dayanch96",
+      "localizedDescription": "Youtube injected with Plus.",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"  
+    },
+    {
+      "beta": false,
       "name": "Mangayomi",
       "subtitle": "A good anime app.",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
