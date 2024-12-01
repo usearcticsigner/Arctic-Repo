@@ -564,10 +564,10 @@
       "name": "TrollRecorder",
       "subtitle": "A good audio recorder.",
       "bundleIdentifier": "wiki.qaq.trapp",
-      "version": "1.9.7-183",
+      "version": "2.10",
       "versionDate": "2024-05-30",
       "size": 3286009,
-      "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/05-30-2024/TrollRecorder-1.9.7-183.ipa",
+      "downloadURL": "https://github.com/Lessica/TrollRecorder/releases/download/v2.10-499/TRApp_2.10-499.tipa",
       "developerName": "Lessica",
       "localizedDescription": "TrollRecorder is an Advanced audio recorder with TrollStore.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/wiki.qaq.trapp.png"
