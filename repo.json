@@ -496,15 +496,15 @@
     },
     {
       "beta": false,
-      "name": "DLTikTok",
+      "name": "BHTikTok",
       "subtitle": "TikTok, enhanced with features.",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "34.7.1-2.0.5",
       "versionDate": "2024-05-30",
       "size": 211345833,
-      "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/05-30-2024/DLTikTok-34.7.1-2.0.5.ipa",
+      "downloadURL": "https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa",
       "developerName": "nowesr1",
-      "localizedDescription": "Tiktok injected with DL.",
+      "localizedDescription": "Tiktok injected with BH.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.zhiliaoapp.musically.png"
     },
     {
