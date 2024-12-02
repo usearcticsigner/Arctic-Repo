@@ -70,10 +70,10 @@
       "name": "Spotify", 
       "subtitle": "Eevee the best Spotify tweak.",
       "bundleIdentifier": "com.spotify.client", 
-      "version": "5.8",
+      "version": "5.8.1",
       "versionDate": "2024-10-02",
       "size": 50300000, 
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8/EeveeSpotify-5.8-8.9.90.ipa", 
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.1/EeveeSpotify-5.8.1-8.9.94.ipa", 
       "developerName": "whoeevee", 
       "localizedDescription": "Spotify injected with EeveeSpotify.", 
       "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/com.spotify.client.png?raw=true"
