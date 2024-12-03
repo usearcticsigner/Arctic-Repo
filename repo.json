@@ -1575,21 +1575,8 @@
     },
     {
       "beta": false,
-      "name": "YukaPremium",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "yuca.scanner",
-      "version": "4.35",
-      "versionDate": "2024-03-27",
-      "size": 123092775,
-      "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/03-27-2024/YukaPremium-4.35.ipa",
-      "developerName": "iOS Tutorials + App Cracks",
-      "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 05-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/yuca.scanner.png"
-    },
-    {
-      "beta": false,
       "name": "CanYouJB",
-      "subtitle": "Wish I could jb :(.",
+      "subtitle": "Wish I could jb :(",
       "bundleIdentifier": "com.CanYouJB.SamoXcZ",
       "version": "4.5",
       "versionDate": "2024-03-26",
