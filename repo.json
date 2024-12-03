@@ -1589,14 +1589,14 @@
     {
       "beta": false,
       "name": "CanYouJB",
-      "subtitle": "An ipa modder.",
+      "subtitle": "Wish I could jb :(.",
       "bundleIdentifier": "com.CanYouJB.SamoXcZ",
-      "version": "3.0",
+      "version": "4.5",
       "versionDate": "2024-03-26",
       "size": 394796,
-      "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/03-26-2024/CanYouJB-3.0.ipa",
+      "downloadURL": "https://github.com/SamoXcZ/CanYouJB/releases/download/4.5/CanYouJB-v4.5.ipa",
       "developerName": "SamoXcZ",
-      "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: \u2705",
+      "localizedDescription": "A straightforward Jailbreak Detector.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.CanYouJB.SamoXcZ.png"
     },
     {
@@ -1858,19 +1858,6 @@
       "developerName": "DPixel",
       "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.wallpaperscraft.wallpapers.png"
-    },
-    {
-      "beta": false,
-      "name": "EhPanda",
-      "subtitle": "An ipa modder.",
-      "bundleIdentifier": "zeng.EhPanda",
-      "version": "2.7.4",
-      "versionDate": "2024-01-23",
-      "size": 6685295,
-      "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/01-23-2024/EhPanda-2.7.4.ipa",
-      "developerName": "EhPanda-Team",
-      "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/zeng.EhPanda.png"
     },
     {
       "beta": false,
