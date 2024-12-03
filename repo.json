@@ -228,10 +228,10 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "5.1",
       "versionDate": "2024-10-02",
-      "downloadURL": "https://github.com/Mrsheep561/YTLite/releases/download/v1/YouTubePlus_5.1.ipa",
+      "downloadURL": "https://github.com/Mrsheep561/YTLite/releases/download/v1/YouTubePlus_5.1_Tweaks.ipa",
       "size": 127400000,
       "developerName": "dayanch96",
-      "localizedDescription": "Youtube injected with Plus.",
+      "localizedDescription": "Youtube injected with Plus alongside a few other tweaks.",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"  
     },
     {
