@@ -2519,8 +2519,11 @@
       "tintColor": "#000000",
       "imageURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/repo.png?raw=true",
       "url": "https://usearcticsigner.github.io",
-      "notify": true
+      "notify": true,
     }
+  ]
 }
+
+
     
     
