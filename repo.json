@@ -1,4 +1,3 @@
-
 {
     "name": "Arctic Repo",
     "identifier": "arcticrepo.xyz",
@@ -186,7 +185,7 @@
                     "date": "2024-11-01",
                     "size": 12000000,
                     "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.ipa",
-                    "localizedDescription": "Feather, a new ipa signer. (Not as good as Arctic)"
+                    "localizedDescription": "Feather, a new ipa signer."
                 }
             ]
         },
@@ -293,7 +292,7 @@
             "developerName": "iKarwan",
             "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
             "versions": [
-                {  
+                {
                     "version": "3.2.47",
                     "date": "2024-05-30",
                     "size": 127400000,
@@ -1435,7 +1434,7 @@
                     "size": 156715888,
                     "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
                     "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 04-23-2024\nStatus: \u2705 \u2b50"
-                },
+                }
             ]
         },
         {
@@ -1596,7 +1595,6 @@
                     "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/04-19-2024/AppLockPro-3.1.2.ipa",
                     "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-19-2024\nStatus: \u2705 \u2b50"
                 }
-              
             ]
         },
         {
@@ -3101,7 +3099,7 @@
                     "size": 7522792,
                     "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/01-28-2024/ESign-5.0.2.ipa",
                     "localizedDescription": "One of the best ipa sideloaders."
-                },
+                }
             ]
         },
         {
