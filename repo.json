@@ -14,7 +14,6 @@
     ],
     "apps": [
         {
-            "beta": false,
             "name": "Fortnite",
             "subtitle": "Now available outside of the EU.",
             "bundleIdentifier": "com.epicgames.FortniteGame",
@@ -36,7 +35,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Fall Guys",
             "subtitle": "Now available outside of the EU.",
             "bundleIdentifier": "uk.co.mediatonic.fallguys",
@@ -58,7 +56,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Minecraft",
             "subtitle": "Now Minecraft is free!",
             "bundleIdentifier": "com.mojang.minecraftpe.mctemplate",
@@ -80,7 +77,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Geometry Dash",
             "subtitle": "Now Geometry Dash is free!",
             "bundleIdentifier": "com.roptop.geometryjump",
@@ -102,7 +98,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Spotify",
             "subtitle": "Eevee the best Spotify tweak.",
             "bundleIdentifier": "com.spotify.client",
@@ -124,7 +119,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Procreate Dreams",
             "subtitle": "Normally $25 now free!",
             "bundleIdentifier": "au.com.savageinteractive.Dream",
@@ -146,7 +140,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Procreate",
             "subtitle": "Normally $20 now free!",
             "bundleIdentifier": "au.com.savageinteractive.procreate",
@@ -168,7 +161,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "PureKFD",
             "subtitle": "Only the best tweaking app.",
             "bundleIdentifier": "uwu.lrdsnow.purekfdiOS",
@@ -190,7 +182,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "TrollInstallerX",
             "subtitle": "The best way to install TrollStore!",
             "bundleIdentifier": "com.Alfie.TrollInstallerX",
@@ -212,7 +203,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Dopamine",
             "subtitle": "The best and the latest jailbreak.",
             "bundleIdentifier": "com.opa334.Dopamine",
@@ -234,7 +224,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Feather",
             "subtitle": "A new log-free ipa signer.",
             "bundleIdentifier": "kh.crysalis.feather",
@@ -256,7 +245,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "Scarlet",
             "subtitle": "A classic ipa signer.",
             "bundleIdentifier": "DebianArch.ScarletPersonalXYZZZ",
@@ -278,7 +266,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "YTMusicUltimate",
             "subtitle": "The best YT Music Tweak.",
             "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -300,7 +287,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "uYouEnhanced",
             "subtitle": "An amazing Youtube Tweak.",
             "bundleIdentifier": "com.google.ios.youtube",
@@ -317,7 +303,6 @@
             ]
         },
         {
-            "beta": false,
             "name": "uYouPlus",
             "subtitle": "An amazing Youtube Tweak.",
             "bundleIdentifier": "com.google.ios.youtube",
