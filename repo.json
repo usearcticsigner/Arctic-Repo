@@ -1,3 +1,4 @@
+
 {
     "name": "Arctic Repo",
     "identifier": "arcticrepo.xyz",
@@ -269,20 +270,15 @@
             "name": "YTMusicUltimate",
             "subtitle": "The best YT Music Tweak.",
             "bundleIdentifier": "com.google.ios.youtubemusic",
-            "version": "2.2",
-            "versionDate": "2024-09-12",
-            "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/YTMusicUltimate.ipa",
-            "size": 80700000,
             "developerName": "dayanch96",
-            "localizedDescription": "Youtube Music injected with Ultimate.",
             "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/com.google.ios.youtubemusic.png?raw=true",
             "versions": [
                 {
-                    "version": "333.0.4-3.8.24",
-                    "date": "2024-05-30",
-                    "size": 156564874,
-                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/05-30-2024/InstagramRocket-333.0.4-3.8.24.ipa",
-                    "localizedDescription": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 05-30-2024\nStatus: \u2705"
+                    "version": "2.2",
+                    "date": "2024-09-12",
+                    "size": 80700000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/YTMusicUltimate.ipa",
+                    "localizedDescription": "Youtube Music injected with Ultimate."
                 }
             ]
         },
