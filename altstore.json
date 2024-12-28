@@ -1,8 +1,4 @@
-The error "No value associated with key CodingKeys(stringValue: 'versionDate', intValue: nil) ('versionDate')" suggests that a `versionDate` field is missing for one of the apps in the JSON file. Let's correct that by ensuring all apps have a `versionDate`.
 
-Here is the corrected `repo.json`:
-
-```json
 {
   "name": "Arctic Repo",
   "identifier": "arcticrepo.xyz",
@@ -262,7 +258,7 @@ Here is the corrected `repo.json`:
       "size": 51700000,
       "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.6/Mangayomi-v0.3.6-ios.ipa",
       "developerName": "Aniyomi",
-      "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga a[...]
+      "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.kodjodevf.mangayomi.png"
     }
   ]
