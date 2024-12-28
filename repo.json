@@ -14729,21 +14729,7 @@
           "downloadURL": "https://github.com/revival-team-ios/Revival-Repo/releases/download/11-09-2022/YouTubeReborn.ipa",
           "localizedDescription": ""
         }
-      ],
-     "news": [
-    {
-      "title": "Arctic Release!!!",
-      "identifier": "release",
-      "caption": "Arctic is releasing soon!",
-      "date": "2024-12-28",
-      "tintColor": "#000000",
-      "imageURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/repo.png?raw=true",
-      "url": "https://usearcticsigner.github.io",
-      "notify": true
+      ]
     }
   ]
 }
-
-
-    
-    
