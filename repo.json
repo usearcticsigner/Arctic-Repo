@@ -2509,7 +2509,18 @@
       "localizedDescription": "The easiest way to mod ipas.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.powen.ModMyIPA."
     }
-  ]
+  ],
+     "news": [
+    {
+      "title": "Arctic Release!!!",
+      "identifier": "release",
+      "caption": "Arctic is releasing soon!",
+      "date": "2024-12-28",
+      "tintColor": "#000000",
+      "imageURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/repo.png?raw=true",
+      "url": "https://usearcticsigner.github.io",
+      "notify": true
+    }
 }
     
     
