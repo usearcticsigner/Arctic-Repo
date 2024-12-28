@@ -259,9 +259,9 @@
           "size": 211345833,
           "downloadURL": "https://github.com/revival-team-ios/Revival-Repo/releases/download/05-30-2024/DLTikTok-34.7.1-2.0.5.ipa",
           "localizedDescription": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 05-30-2024\nStatus: \u2705"
-        },
+        }
       ]
-    }
+    },
     {
       "name": "InstagramLRD",
       "bundleIdentifier": "com.burbn.instagram",
@@ -304,14 +304,14 @@
           "size": 211291121,
           "downloadURL": "https://github.com/revival-team-ios/Revival-Repo/releases/download/05-30-2024/TikTokDark-34.7.1.ipa",
           "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 05-30-2024\nStatus: \u2705"
-        }
+        },
         {
           "version": "34.1.0",
           "date": "2024-04-04",
           "size": 247020127,
           "downloadURL": "https://github.com/revival-team-ios/Revival-Repo/releases/download/04-04-2024/TikTokDark-34.1.0.ipa",
           "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 05-30-2024\nStatus: \u2705"
-        },
+        }
       ]
     },
     {
@@ -403,6 +403,7 @@
           "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 05-28-2024\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
+    },
     {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
