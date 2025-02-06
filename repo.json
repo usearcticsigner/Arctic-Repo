@@ -21,10 +21,10 @@
             "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/fortnite.png?raw=true",
             "versions": [
                 {
-                    "version": "33.11",
+                    "version": "33.30",
                     "date": "2024-12-27",
                     "size": 253000000,
-                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.0/Fortnite-33.11.ipa",
+                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.3/Fortnite-33.30.ipa",
                     "localizedDescription": "Fortnite mobile! (Does Not work with all certs, to play it you need increased memory limit and extended virtual addressing, unless you have trollstore)."
                 }
             ]
@@ -37,10 +37,10 @@
             "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88",
             "versions": [
                 {
-                    "version": "11.5.0",
+                    "version": "11.6.0",
                     "date": "2024-12-13",
                     "size": 1890000000,
-                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.0.9/FallGuys-11.5.0.ipa",
+                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
                     "localizedDescription": "Enjoy Fall Guys on mobile."
                 }
             ]
