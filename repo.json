@@ -301,16 +301,5 @@
                 }
             ]
         }
-    ],
-      "news": [
-    {
-      "title": "Arctic Signer Release!!!",
-      "identifier": "nohatepls",
-      "caption": "Arctic Signer should hopefully release in May.",
-      "date": "2025-02-11",
-      "tintColor": "#00CCFF",
-      "url": "",
-      "notify": true
-    }
-  ]
+    ]
 }
