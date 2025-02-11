@@ -301,5 +301,26 @@
                 }
             ]
         }
-    ]
+    ],
+      "news": [
+    {
+      "title": "MySign 2.0 has been delayed s0n",
+      "identifier": "noooanotherdelayihatemysign",
+      "caption": "Because of irl stuff I am delaying 2.0 to 3.20.25 so I can finish all planned functionality without disappointing yall.",
+      "date": "2025-02-07",
+      "tintColor": "#326B8B",
+      "url": "https://discord.gg/hUK5m9MGFc",
+      "notify": true
+    },
+    {
+      "title": "Thanks for using my personal repository",
+      "identifier": "joinourdcserver",
+      "caption": "If you're interested in my projects, you can join my server by clicking this.",
+      "date": "2025-01-28",
+      "tintColor": "#326B8B",
+      "imageURL": "https://cdn1.realmzer.xyz/IMG_4153-UV.png",
+      "url": "https://discord.gg/hUK5m9MGFc",
+      "notify": true
+    }
+  ]
 }
