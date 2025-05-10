@@ -1,0 +1,289 @@
+{
+    "name": "Arctic Repo",
+    "identifier": "arcticrepo.xyz",
+    "subtitle": "My Repo, Arctic Signer's Repo.",
+    "description": "Welcome to Arctic Signer's Repo, here you will find all of my recommended apps and games.",
+    "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/repo.png?raw=true",
+    "website": "usearcticsigner.github.io",
+    "tintColor": "#03fc98",
+    "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/refs/heads/main/repo.json",
+    "featuredApps": [
+        "com.epicgames.FortniteGame",
+        "uk.co.mediatonic.fallguys",
+        "uwu.lrdsnow.purekfdiOS"
+    ],
+    "apps": [
+        {
+            "name": "Fortnite",
+            "subtitle": "Now available outside of the EU.",
+            "bundleIdentifier": "com.epicgames.FortniteGame",
+            "developerName": "Epic Games",
+            "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/fortnite.png?raw=true",
+            "versions": [
+                {
+                    "version": "33.30",
+                    "date": "2024-12-27",
+                    "size": 253000000,
+                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.3/Fortnite-33.30.ipa",
+                    "localizedDescription": "R.I.P"
+                }
+            ]
+        },
+        {
+            "name": "Fall Guys",
+            "subtitle": "Now available outside of the EU.",
+            "bundleIdentifier": "uk.co.mediatonic.fallguys",
+            "developerName": "Mediatonic",
+            "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88",
+            "versions": [
+                {
+                    "version": "11.6.0",
+                    "date": "2024-12-13",
+                    "size": 1890000000,
+                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
+                    "localizedDescription": "R.I.P"
+                }
+            ]
+        },
+        {
+            "name": "Minecraft",
+            "subtitle": "Now Minecraft is free!",
+            "bundleIdentifier": "com.mojang.minecraftpe.mctemplate",
+            "developerName": "Mojang Studios",
+            "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
+            "versions": [
+                {
+                    "version": "1.21.51",
+                    "date": "2024-12-09",
+                    "size": 514600000,
+                    "downloadURL": "https://files.drifty.win/Minecraft/Minecraft%20v1.21.51.ip",
+                    "localizedDescription": "Minecraft, the perfect party game to play with friends."
+                }
+            ]
+        },
+        {
+            "name": "Geometry Dash",
+            "subtitle": "Now Geometry Dash is free!",
+            "bundleIdentifier": "com.roptop.geometryjump",
+            "developerName": "RobTop",
+            "iconURL": "data:image/jpeg;base64,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",
+            "versions": [
+                {
+                    "version": "2.207",
+                    "date": "2024-12-08",
+                    "size": 156700000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/Geometry-Dash-v2-207.ipa",
+                    "localizedDescription": "Geometry Dash the perfect platformer game."
+                }
+            ]
+        },
+        {
+            "name": "Spotify",
+            "subtitle": "Eevee the best Spotify tweak.",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "whoeevee",
+            "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/com.spotify.client.png?raw=true",
+            "versions": [
+                {
+                    "version": "5.8.1",
+                    "date": "2024-10-02",
+                    "size": 50300000,
+                    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.1/EeveeSpotify-5.8.1-8.9.94.ipa",
+                    "localizedDescription": "Spotify injected with EeveeSpotify."
+                }
+            ]
+        },
+        {
+            "name": "Procreate Dreams",
+            "subtitle": "Normally $25 now free!",
+            "bundleIdentifier": "au.com.savageinteractive.Dream",
+            "developerName": "Savage Interactive",
+            "iconURL": "data:image/jpeg;base64,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",
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2024-03-23",
+                    "size": 737600000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/Procreate-Dreams-v1-0-11.ipa",
+                    "localizedDescription": "Procreate Dreams, the perfect animation studio!"
+                }
+            ]
+        },
+        {
+            "name": "Procreate",
+            "subtitle": "Normally $20 now free!",
+            "bundleIdentifier": "au.com.savageinteractive.procreate",
+            "developerName": "Savage Interactive",
+            "iconURL": "data:image/jpeg;base64,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",
+            "versions": [
+                {
+                    "version": "5.3.12",
+                    "date": "2024-03-12",
+                    "size": 361000000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/Procreate-v5-3-12.ipa",
+                    "localizedDescription": "Procreate, an amazing drawing studio."
+                }
+            ]
+        },
+        {
+            "name": "PureKFD",
+            "subtitle": "Only the best tweaking app.",
+            "bundleIdentifier": "uwu.lrdsnow.purekfdiOS",
+            "developerName": "Lrdsnow",
+            "iconURL": "https://avatars.githubusercontent.com/u/150500347?s=200&v=4",
+            "versions": [
+                {
+                    "version": "6.0.1",
+                    "date": "2024-09-18",
+                    "size": 10400000,
+                    "downloadURL": "https://github.com/Lrdsnow/PureKFD/releases/download/6.0.1/PureKFD.ipa",
+                    "localizedDescription": "PureKFD, the all in one tweaking app!"
+                }
+            ]
+        },
+        {
+            "name": "TrollInstallerX",
+            "subtitle": "The best way to install TrollStore!",
+            "bundleIdentifier": "com.Alfie.TrollInstallerX",
+            "developerName": "alfiecg24",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN1MRecR4X--Ox9Pp-R-VS1-cYQinlzgfyAppAAJcNA&s",
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2024-09-13",
+                    "size": 6570000,
+                    "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+                    "localizedDescription": "This installs Trollstore. (Only support iOS 15 to 16.5)"
+                }
+            ]
+        },
+        {
+            "name": "Dopamine",
+            "subtitle": "The best and the latest jailbreak.",
+            "bundleIdentifier": "com.opa334.Dopamine",
+            "developerName": "opa334",
+            "iconURL": "data:image/jpeg;base64,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",
+            "versions": [
+                {
+                    "version": "2.2.2",
+                    "date": "2024-08-15",
+                    "size": 47400000,
+                    "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.ipa",
+                    "localizedDescription": "Dopamine, the newest jailbreak. (Only supports ios 15 to 16.5.1)"
+                }
+            ]
+        },
+        {
+            "name": "Feather",
+            "subtitle": "A new log-free ipa signer.",
+            "bundleIdentifier": "kh.crysalis.feather",
+            "developerName": "khcrysalis",
+            "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+            "versions": [
+                {
+                    "version": "1.1.3",
+                    "date": "2024-11-01",
+                    "size": 12000000,
+                    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.ipa",
+                    "localizedDescription": "Feather, a new ipa signer."
+                }
+            ]
+        },
+        {
+            "name": "Scarlet",
+            "subtitle": "A classic ipa signer.",
+            "bundleIdentifier": "DebianArch.ScarletPersonalXYZZZ",
+            "developerName": "DebianArch64",
+            "iconURL": "https://avatars.githubusercontent.com/u/63203414?v=4",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2020-01-01",
+                    "size": 9780000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/ScarletAlpha.ipa",
+                    "localizedDescription": "Scarlet, a classic ipa signer that almost everyone has used."
+                }
+            ]
+        },
+        {
+            "name": "YTMusicUltimate",
+            "subtitle": "The best YT Music Tweak.",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "dayanch96",
+            "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/com.google.ios.youtubemusic.png?raw=true",
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2024-09-12",
+                    "size": 80700000,
+                    "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/YTMusicUltimate.ipa",
+                    "localizedDescription": "Youtube Music injected with Ultimate."
+                }
+            ]
+        },
+        {
+            "name": "uYouEnhanced",
+            "subtitle": "An amazing Youtube Tweak.",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "arichornlover",
+            "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
+            "versions": [
+                {
+                    "version": "20.18.5",
+                    "date": "2024-12-28",
+                    "size": 127400000,
+                    "downloadURL": "https://github.com/Mrsheep561/uYouEnhanced/releases/download/v20.18.5-3.0.4-(4)/uYouEnhanced_20.18.5-3.0.4.ipa",
+                    "localizedDescription": "Youtube injected with uYouEnhanced."
+                }
+            ]
+        },
+        {
+            "name": "uYouPlus",
+            "subtitle": "An amazing Youtube Tweak.",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "qnblackcat",
+            "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
+            "version": "20.18.5",
+            "date": "2024-12-28",
+            "size": 127400000,
+            "downloadURL": "https://github.com/usearcticsigner/uYouPlus/releases/download/v20.18.5-3.0.4-(6)/uYouPlus_20.18.5-3.0.4.ipa",
+            "localizedDescription": "Youtube injected with uYouPlus."
+        },
+        {
+            "name": "YTLitePlus",
+            "subtitle": "An amazing Youtube Tweak.",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "dayanch96",
+            "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
+            "version": "5.1",
+            "date": "2024-12-28",
+            "size": 127400000,
+            "downloadURL": "https://github.com/Mrsheep561/YTLitePlus/releases/download/v20.18.5-5.0.1/YTLitePlus_20.18.5_5.0.1.ipa",
+            "localizedDescription": "Youtube injected with ytliteplus."
+        },
+        {
+            "name": "Youtube Plus",
+            "subtitle": "An amazing Youtube Tweak.",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "dayanch96",
+            "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",                  
+            "version": "5.1",
+            "date": "2024-12-28",
+            "size": 127400000,
+            "downloadURL": "https://github.com/Mrsheep561/YTLite/releases/download/v2/YouTubePlus_5.2b1.ipa",
+            "localizedDescription": "Youtube injected with Plus alongside a few other tweaks."
+        },
+        {
+            "name": "YTKillerPlus",
+            "subtitle": "An amazing Youtube Tweak.",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "iKarwan",
+            "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
+            "version": "20.18",
+            "date": "2024-05-30",
+            "size": 127400000,
+            "downloadURL": "https://ikghd.site/ipa/YouTube_20.18_YTKillerPlus_3.2.74.ipa",
+            "localizedDescription": "Youtube injected with YTKillerPlus."
+        }
+    ]
+}
