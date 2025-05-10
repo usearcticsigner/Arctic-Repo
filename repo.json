@@ -229,10 +229,10 @@
             "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
             "versions": [
                 {
-                    "version": "19.49.7",
+                    "version": "20.18.5",
                     "date": "2024-12-28",
                     "size": 127400000,
-                    "downloadURL": "https://github.com/Mrsheep561/uYouEnhanced/releases/download/v19.49.7-3.0.4-(2)/uYouEnhanced_19.49.7-3.0.4.ipa",
+                    "downloadURL": "https://github.com/Mrsheep561/uYouEnhanced/releases/download/v20.18.5-3.0.4-(4)/uYouEnhanced_20.18.5-3.0.4.ipa",
                     "localizedDescription": "Youtube injected with uYouEnhanced."
                 }
             ]
@@ -245,10 +245,10 @@
             "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
             "versions": [
                 {
-                    "version": "19.49.7",
+                    "version": "20.18.5",
                     "date": "2024-12-28",
                     "size": 127400000,
-                    "downloadURL": "https://github.com/usearcticsigner/uYouPlus/releases/download/v19.49.7-3.0.4-(2)/uYouPlus_19.49.7-3.0.4.ipa",
+                    "downloadURL": "https://github.com/usearcticsigner/uYouPlus/releases/download/v20.18.5-3.0.4-(6)/uYouPlus_20.18.5-3.0.4.ipa",
                     "localizedDescription": "Youtube injected with uYouPlus."
                 }
             ]
@@ -264,7 +264,7 @@
                     "version": "5.1",
                     "date": "2024-12-28",
                     "size": 127400000,
-                    "downloadURL": "https://github.com/Mrsheep561/YTLite/releases/download/untagged-95b715aed66fe61b0e41/YouTubePlus_5.2b1.ipa",
+                    "downloadURL": "https://github.com/Mrsheep561/YTLitePlus/releases/download/v20.18.5-5.0.1/YTLitePlus_20.18.5_5.0.1.ipa",
                     "localizedDescription": "Youtube injected with ytliteplus."
                 }
             ]
@@ -293,10 +293,10 @@
             "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
             "versions": [
                 {
-                    "version": "3.2.47",
+                    "version": "20.18",
                     "date": "2024-05-30",
                     "size": 127400000,
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_20.0_YTKillerPlus_3.2.51.ipa",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_20.18_YTKillerPlus_3.2.74.ipa",
                     "localizedDescription": "Youtube injected with YTKillerPlus."
                 }
             ]
