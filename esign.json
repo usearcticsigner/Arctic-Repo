@@ -7,27 +7,18 @@
     "website": "usearcticsigner.github.io",
     "tintColor": "#03fc98",
     "sourceURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/refs/heads/main/repo.json",
-    "featuredApps": [
-        "com.epicgames.FortniteGame",
-        "uk.co.mediatonic.fallguys",
-        "uwu.lrdsnow.purekfdiOS"
-    ],
+
     "apps": [
         {
             "name": "Fortnite",
             "subtitle": "Now available outside of the EU.",
             "bundleIdentifier": "com.epicgames.FortniteGame",
-            "developerName": "Epic Games",
-            "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/fortnite.png?raw=true",
-            "versions": [
-                {
-                    "version": "33.30",
-                    "date": "2024-12-27",
-                    "size": 253000000,
-                    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.3/Fortnite-33.30.ipa",
-                    "localizedDescription": "R.I.P"
+            "version": "33.30",
+            "date": "2024-12-27",
+            "size": 253000000,
+            "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.3/Fortnite-33.30.ipa",
+            "localizedDescription": "R.I.P"
                 }
-            ]
         },
         {
             "name": "Fall Guys",
@@ -35,15 +26,11 @@
             "bundleIdentifier": "uk.co.mediatonic.fallguys",
             "developerName": "Mediatonic",
             "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88",
-            "versions": [
-                {
                     "version": "11.6.0",
                     "date": "2024-12-13",
                     "size": 1890000000,
                     "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
                     "localizedDescription": "R.I.P"
-                }
-            ]
         },
         {
             "name": "Minecraft",
@@ -51,15 +38,11 @@
             "bundleIdentifier": "com.mojang.minecraftpe.mctemplate",
             "developerName": "Mojang Studios",
             "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
-            "versions": [
-                {
                     "version": "1.21.51",
                     "date": "2024-12-09",
                     "size": 514600000,
                     "downloadURL": "https://files.drifty.win/Minecraft/Minecraft%20v1.21.51.ip",
                     "localizedDescription": "Minecraft, the perfect party game to play with friends."
-                }
-            ]
         },
         {
             "name": "Geometry Dash",
@@ -67,15 +50,11 @@
             "bundleIdentifier": "com.roptop.geometryjump",
             "developerName": "RobTop",
             "iconURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgH...",
-            "versions": [
-                {
                     "version": "2.207",
                     "date": "2024-12-08",
                     "size": 156700000,
                     "downloadURL": "https://github.com/usearcticsigner/Arctic-Repo/releases/download/RELEASE/Geometry-Dash-v2-207.ipa",
                     "localizedDescription": "Geometry Dash the perfect platformer game."
-                }
-            ]
         },
         {
             "name": "Spotify",
@@ -83,15 +62,11 @@
             "bundleIdentifier": "com.spotify.client",
             "developerName": "whoeevee",
             "iconURL": "https://github.com/usearcticsigner/Arctic-Repo/blob/main/icons/com.spotify.client.png?raw=true",
-            "versions": [
-                {
                     "version": "5.8.1",
                     "date": "2024-10-02",
                     "size": 50300000,
                     "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8.1/EeveeSpotify-5.8.1-8.9.94.ipa",
                     "localizedDescription": "Spotify injected with EeveeSpotify."
-                }
-            ]
         },
         {
             "name": "Procreate Dreams",
@@ -99,15 +74,11 @@
             "bundleIdentifier": "au.com.savageinteractive.Dream",
             "developerName": "Savage Interactive",
             "iconURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQE...",
-            "versions": [
-                {
                     "version": "1.0",
                     "date": "2024-11-01",
                     "size": 550000000,
                     "downloadURL": "https://example.com/ProcreateDreams.ipa",
                     "localizedDescription": "Procreate Dreams free version."
-                }
-            ]
         }
     ]
 }
