@@ -277,10 +277,10 @@
             "iconURL": "https://raw.githubusercontent.com/usearcticsigner/Arctic-Repo/main/icons/com.google.ios.youtube.png",
             "versions": [
                 {
-                    "version": "5.2",
+                    "version": "5.4",
                     "date": "2024-12-28",
                     "size": 127400000,
-                    "downloadURL": "https://github.com/sheep1fy/YTLite/releases/download/ytp-9/YouTubePlus_5.2b3.ipa",
+                    "downloadURL": "https://github.com/sheep1fy/YTLite/releases/download/ytp-10/YouTubePlus_5.2b4.ipa",
                     "localizedDescription": "Youtube injected with Plus alongside a few other tweaks."
                 }
             ]
